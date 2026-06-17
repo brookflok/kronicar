@@ -36,6 +36,43 @@ _LINK_RE = re.compile(
 )
 
 
+# A list item: optional indent, a -, *, + or "1." marker, space, then content.
+_LIST_RE = re.compile(r"^\s*([-*+]|\d+\.)\s+\S")
+
+
+def _ensure_blank_before_lists(markdown):
+    """Insert a blank line before a list that directly follows a paragraph.
+
+    Python-Markdown (MkDocs) needs a blank line before a list or it folds the
+    items into the preceding paragraph. Obsidian (CommonMark) does not, so the
+    source omits it. We add it back, mirroring how Obsidian renders. Fenced
+    code blocks are left untouched.
+    """
+    out = []
+    in_fence = False
+    fence = ""
+    for line in markdown.split("\n"):
+        stripped = line.lstrip()
+        if not in_fence and (stripped.startswith("```") or stripped.startswith("~~~")):
+            in_fence, fence = True, stripped[:3]
+            out.append(line)
+            continue
+        if in_fence:
+            if stripped.startswith(fence):
+                in_fence = False
+            out.append(line)
+            continue
+        if _LIST_RE.match(line) and out:
+            prev = out[-1]
+            # Insert only when crossing from a normal line into a list: skip if
+            # the previous line is blank, already a list item, or an indented
+            # continuation of one.
+            if prev.strip() and not _LIST_RE.match(prev) and not prev[:1].isspace():
+                out.append("")
+        out.append(line)
+    return "\n".join(out)
+
+
 def _slug(text):
     text = text.strip().lower()
     text = re.sub(r"[^\w\s-]", "", text)   # drop apostrophes, punctuation
@@ -91,6 +128,7 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
             return display
         return "[{}]({}{})".format(display, _rel(doc.url, page_url), frag)
 
+    markdown = _ensure_blank_before_lists(markdown)
     markdown = _EMBED_RE.sub(repl_embed, markdown)
     markdown = _LINK_RE.sub(repl_link, markdown)
     return markdown
