@@ -38,6 +38,23 @@ I write so the text reads like an experienced human wrote it, not an AI.
 Output is always clean, usable .md files the GM can open at the table or drop into their
 tools. I adapt the format to the task (player summary, DM hooks, NPC card, location writeup).
 
+## Obsidian linking (mandatory)
+Everything lives in an Obsidian vault, so I ALWAYS cross-link with `[[wikilinks]]` to make
+navigation easy. Whenever I write or edit a file and mention something that has (or could
+have) its own note, I link it.
+- Link every named NPC, location/district, faction, organization, situation/case, handout,
+  PC, and inter-file reference. Use `[[note-name]]`, resolved by filename (no folder path,
+  no `.md`). Example: `[[mister-pol]]`, `[[the-pilfered-wand]]`, `[[case_the_cold_key]]`.
+- Use a display alias when the prose needs a different surface form: `[[mister-pol|Pol]]`,
+  `[[vundry|Vundry]]`, `[[Fallen|Faela]]` (when the person lives inside a location note).
+- Never reference another note as a bare backtick path like `factions/x.md`. Convert it to
+  `[[x]]`. Plain file paths are not clickable in Obsidian; wikilinks are.
+- A `[[link]]` whose note does not exist yet is fine; it is a healthy placeholder that marks
+  something worth writing later.
+- Player-facing handout/prop bodies stay clean and in-world (no links in the prop text). I
+  put navigation links in a small `*Vezano:*` footer instead, so immersion is preserved.
+- This is for navigation only; it never changes the OUTPUT LANGUAGE or writing-style rules.
+
 ## Two kinds of source book
 I handle two kinds of books, and they live in separate areas (see Folder structure):
 - SETTING books describe a place, its NPCs, and lore (e.g. Sharn). They become a navigable
@@ -111,11 +128,32 @@ currently named "Sharn"; it will be renamed later.)
       organization/    the party's own organization in Sharn
       npcs/            NPCs at the table (relationships, state)
       factions/        the big powers tracked as fronts (goal + grim portents)
+      locations/       reusable theme-park location notes (loc_<name>.md): theme + attractions
       situations/      bank of potential situations (NOT stories)
       log/             recaps of played sessions
       threads.md       live open plot threads
   output/            finished deliverables, one subfolder per setting
     sharn/             session plans, campaign arcs, NPC cards...
+
+## Theme-park locations (mandatory when writing places)
+Sharn is huge, so a location is never just a backdrop for one clue. Every place the players
+can visit must be a small "land" they want to spend time in. When I write or improve a
+location, I apply the Fantasy City Creation Method (method/03_method/Fantasy City Creation
+Method.md, linkable as [[Fantasy City Creation Method]]):
+- Give the location a clear, VISUAL theme and a short sense of place (sound, smell, light),
+  grounded in the setting master location note.
+- Give it 2 to 3 ATTRACTIONS: concrete activities the players can do there (an auction, a
+  contest, a show, a heist, a race, an occult favor, an exploration, a fight ring...). I tag
+  each with its appeal (intrigue, stealth, combat, performance, social, exploration, puzzle,
+  loot, competition) so different play styles are served.
+- Attractions are LOCATION-first: they evoke this place and the living city, and do not need
+  to tie back to a PC. I let the spot suggest the fun (a Bazaar wants an auction or a contest),
+  and only lean on a PC's interests when it fits naturally.
+- Reusable location notes live in `campaign/<setting>/locations/` (filename `loc_<name>.md` to
+  avoid colliding with the canon note of the same name) and link to their canon master note and
+  to the cases/situations that use them.
+This is part of how I build cases and sessions, not an afterthought: a good case gives players
+options at every place they go, so the world feels like a city, not a corridor.
 
 ## Campaign layer rule (situations, not stories)
 The campaign/ layer holds live, table-specific state. Here I never write stories or

@@ -11,10 +11,14 @@
             "id": "1b3354aec61df912",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "campaign/sharn/situations/case_glass_seance.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "case_glass_seance"
             }
           },
           {
@@ -59,8 +63,7 @@
               "title": "Sharn Lokacije"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "settings/sharn/03_master/locations/Sharn Lokacije.md",
+                "file": "campaign/sharn/situations/case_glass_seance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sharn Lokacije"
+              "title": "Backlinks for case_glass_seance"
             }
           },
           {
@@ -152,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "settings/sharn/03_master/locations/Sharn Lokacije.md",
+                "file": "campaign/sharn/situations/case_glass_seance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sharn Lokacije"
+              "title": "Outgoing links from case_glass_seance"
             }
           },
           {
@@ -195,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "settings/sharn/03_master/locations/Sharn Lokacije.md",
+                "file": "campaign/sharn/situations/case_glass_seance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sharn Lokacije"
+              "title": "Outline of case_glass_seance"
             }
           }
         ]
@@ -223,43 +226,43 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9e231b35e561a88c",
+  "active": "1b3354aec61df912",
   "lastOpenFiles": [
+    "campaign/sharn/situations/_seeds.md",
+    "campaign/sharn/situations/_braid.md",
+    "campaign/sharn/situations/case_glass_seance.md",
+    "campaign/sharn/situations/case_forget_the_cogs.md",
+    "campaign/sharn/situations/handouts/condemnation_notice.md",
+    "campaign/sharn/situations/handouts/cold_key_object.md",
+    "campaign/sharn/situations/handouts/letter_yvanne.md",
+    "campaign/sharn/situations/handouts/broadsheet_fallen_collapse.md",
+    "campaign/sharn/situations/handouts/broadsheet_cold_key.md",
+    "campaign/sharn/factions/boromar-vs-daask.md",
+    "campaign/sharn/locations/loc_brilliant.md",
+    "campaign/sharn/locations/loc_bazaar.md",
+    "campaign/sharn/npcs/lucan-drey.md",
+    "campaign/sharn/locations/loc_callestan.md",
+    "campaign/sharn/locations/loc_depths.md",
+    "campaign/sharn/locations/loc_fallen.md",
+    "campaign/sharn/locations/loc_firelight.md",
+    "campaign/sharn/locations/loc_khybers_gate.md",
+    "campaign/sharn/locations/loc_underlook.md",
+    "campaign/sharn/locations/README.md",
+    "campaign/sharn/situations/case_the_cold_key.md",
+    "campaign/sharn/locations",
+    "method/03_method/Fantasy City Creation Method.md",
+    "campaign/sharn/situations/handouts/seance_reading_card.md",
+    "campaign/sharn/situations/handouts/seance_invitation.md",
+    "campaign/sharn/situations/handouts/README.md",
+    "campaign/sharn/npcs/aelis-donnar.md",
+    "campaign/sharn/situations/handouts",
+    "settings/sharn/03_master/forge_of_the_artificer",
+    "settings/sharn/_split_foa.py",
     "__pycache__/mkdocs_hooks.cpython-314.pyc",
     "__pycache__",
     "mkdocs_hooks.py",
     "overrides/main.html",
     "overrides",
-    "robots.txt",
-    "requirements-docs.txt",
-    "index.md",
-    "mkdocs.yml",
-    "settings/sharn/03_master/locations/Tavick's Landing/Foundation.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/High Walls.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Wroann's Gate.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Terminus.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Cogsgate.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Dragoneyes.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Black Arch.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Kenton.md",
-    "settings/sharn/03_master/locations/City of the Dead/City of the Dead.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Little Barrington.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Tavick's Market.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Dancing Shadows.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Graywall.md",
-    "settings/sharn/03_master/locations/Sharn Lokacije.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Cornerstone.md",
-    "settings/sharn/03_master/locations/The Cogs/The Cogs.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Deathsgate.md",
-    "settings/sharn/03_master/locations/The Cogs/The Depths.md",
-    "settings/sharn/03_master/locations/The Cogs/The Sewers.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Sunrise.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Ocean View.md",
-    "settings/sharn/03_master/locations/The Cogs/Khyber's Gate.md",
-    "settings/sharn/03_master/locations/Dura/Dura.md",
-    "settings/sharn/03_master/locations/Tavick's Landing/Dalan's Refuge.md",
-    "settings/sharn/03_master/locations/Menthis Plateau/Center Bridge.md.tmp.74640.85939b83625c",
-    "settings/sharn/03_master/locations/Menthis Plateau/Warden Towers.md.tmp.74640.184b535182d3",
-    "settings/sharn/03_master/locations/Menthis Plateau/Cassan Bridge.md.tmp.74640.37a57597042d"
+    "robots.txt"
   ]
 }
