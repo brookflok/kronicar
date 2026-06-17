@@ -1,0 +1,60 @@
+site_name: Kroničar
+site_description: Bosanska D&D biblioteka — setting (Sharn/Eberron) i GM metoda
+site_url: https://brookflok.github.io/kronicar/
+
+docs_dir: .
+site_dir: site
+
+theme:
+  name: material
+  language: hr
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Tamni način
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Svijetli način
+
+hooks:
+  - mkdocs_hooks.py
+
+plugins:
+  - same-dir
+  - search:
+      lang:
+        - en
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+# Keep build output and non-content files out of the site.
+exclude_docs: |
+  CLAUDE.md
+  STRUCTURE.md
+  _tools/
+  overrides/
+  site/
+  mkdocs_hooks.py
+  requirements-docs.txt
+  **/00_source/
+  **/01_batches/
