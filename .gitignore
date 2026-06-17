@@ -1,0 +1,14 @@
+# Python virtualenv (regenerable)
+_tools/.venv/
+__pycache__/
+*.pyc
+
+# Source books (copyrighted WotC PDFs — stay local only)
+**/00_source/
+*.pdf
+
+# MkDocs build output
+site/
+
+# macOS
+.DS_Store
