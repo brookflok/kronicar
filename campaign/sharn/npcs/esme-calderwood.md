@@ -9,4 +9,4 @@
 - Jedna tajna [DM] (otvoreno, ne fiksirano): moguće da nestanak nije obična krađa nego insajderski posao u muzeju (Morgrave prodaje na crno), i da je Esme nesvjesno pijun, ili da je baš ona slučajno otkrila nešto što neko želi zataškati. Pusti istragu da odluči.
 
 ## Stanje / zadnji kontakt
-- Klijent slučaja "[[case_dezina_affair|The Dezina Affair]]" (vidi `situations/`). Veza ka Morgrave korupciji i mogućem tragu [[the-pilfered-wand|Pilfered Wand]]a.
+- Klijentica slučaja [[case_the_dezina_consignment]] (Morgrave "deaccession" pošiljka). Veza ka Morgrave korupciji i ka dhakaanskom komadu koji vodi dublje (vidi [[_braid_dhakaan]]).

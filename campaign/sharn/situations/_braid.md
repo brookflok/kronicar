@@ -1,4 +1,4 @@
-# _braid.md — skriveni splet prva tri slučaja  [DM]
+# _braid.md: skriveni splet prva tri slučaja  [DM]
 
 Ovo je nit koja drži tri uvodna noir slučaja zajedno ([[case_the_cold_key]], [[case_forget_the_cogs]], [[case_glass_seance]]). Nije scenarij i nema propisan ishod. Ovdje stoji **šta je istina ispod**, **šta povezuje slučajeve** i **kako se to polako otkriva**. Slučajevi se mogu igrati bilo kojim redom; splet radi i ako party uzme samo jedan.
 

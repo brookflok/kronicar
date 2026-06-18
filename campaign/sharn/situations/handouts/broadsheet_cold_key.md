@@ -4,7 +4,7 @@
 
 ---
 
-### KURIR NAĐEN MRTAV IZA BAZAARA — WATCH KAŽE "PLJAČKA"
+### KURIR NAĐEN MRTAV IZA BAZAARA: WATCH KAŽE "PLJAČKA"
 
 Jučer u zoru, u uskoj uličici iza tezgi Bazaara, nađeno je tijelo **Colla Rennera**, poznatog po donjim wardovima kao čovjek koji za sitne pare nosi tuđe poruke i pakete. Watch je slučaj zaveo kao uličnu pljačku koja je krenula po zlu i, kako čujemo, već ga zatvorio.
 

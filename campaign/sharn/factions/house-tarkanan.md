@@ -15,4 +15,4 @@
 ( čekiraj kad se desi za stolom )
 
 ## Trenutno stanje  [DM]
-- Aktivni u sjeni, posluju preko inquisitiva. Prirodan izvor moralno sivih slučajeva ("[[case_grey_tarkanan|Sivi slučaj]]" u `situations/`). Mogu biti i klijent i prepreka.
+- Aktivni u sjeni, posluju preko inquisitiva. Prirodan izvor moralno sivih slučajeva (nađi osobu koja je zapravo aberrant-marked, posredovanje koje krije ko su zaista). Mogu biti i klijent i prepreka.

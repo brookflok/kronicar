@@ -4,7 +4,7 @@
 
 *Prednja strana, uredan stenografski rukopis:*
 
-> **Lady M.** — udovica, dvije godine. Spominje sina "koji ne piše". Nosi prsten koji stalno okreće (naslijeđen? reaguje na pomen majke). Plače na riječ *vrt*.
+> **Lady M.**: udovica, dvije godine. Spominje sina "koji ne piše". Nosi prsten koji stalno okreće (naslijeđen? reaguje na pomen majke). Plače na riječ *vrt*.
 > Reci joj: muž je miran, ponosan na nju, "čuva nešto za nju u staroj kući". Pusti je da sama kaže šta.
 >
 > **Korisno za K.:** u staroj kući drži *nešto* zaključano u istočnom krilu. Vrijedno. Provjeriti.

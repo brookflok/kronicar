@@ -4,7 +4,7 @@
 
 ---
 
-### JOŠ JEDAN STRADAO U TROŠNOM FALLENU — "GRAD SE BRINE", KAŽE DOBROTVOR
+### JOŠ JEDAN STRADAO U TROŠNOM FALLENU: "GRAD SE BRINE", KAŽE DOBROTVOR
 
 Stari **Doran Vell**, jedan od posljednjih koji su odbili napustiti svoju kuću u ruševnom Fallenu, nađen je mrtav u podnožju vlastitog stepeništa. Watch kaže da je riječ o padu, kakvi su, tvrde, "uobičajeni među starim i tvrdoglavim stanovnicima nesigurnih zgrada".
 

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaign/sharn/situations/case_glass_seance.md",
+                "file": "campaign/sharn/situations/_braid_dhakaan.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "case_glass_seance"
+              "title": "_braid_dhakaan"
+            }
+          },
+          {
+            "id": "d979d108e54095df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaign/sharn/situations/case_the_kept_word.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "case_the_kept_word"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "Sharn Lokacije"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campaign/sharn/situations/case_glass_seance.md",
+                "file": "campaign/sharn/situations/case_the_kept_word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for case_glass_seance"
+              "title": "Backlinks for case_the_kept_word"
             }
           },
           {
@@ -155,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "campaign/sharn/situations/case_glass_seance.md",
+                "file": "campaign/sharn/situations/case_the_kept_word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from case_glass_seance"
+              "title": "Outgoing links from case_the_kept_word"
             }
           },
           {
@@ -198,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "campaign/sharn/situations/case_glass_seance.md",
+                "file": "campaign/sharn/situations/case_the_kept_word.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of case_glass_seance"
+              "title": "Outline of case_the_kept_word"
             }
           }
         ]
@@ -226,11 +241,27 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1b3354aec61df912",
+  "active": "d979d108e54095df",
   "lastOpenFiles": [
-    "campaign/sharn/situations/_seeds.md",
+    "campaign/sharn/situations/_braid_dhakaan.md",
     "campaign/sharn/situations/_braid.md",
     "campaign/sharn/situations/case_glass_seance.md",
+    "campaign/sharn/situations/handouts/flamewind_riddle.md",
+    "campaign/sharn/situations/handouts/relic_kept_word.md",
+    "campaign/sharn/situations/handouts/ledger_dezina_consignment.md",
+    "campaign/sharn/situations/handouts/duurkala_invitation.md",
+    "campaign/sharn/situations/handouts/broadsheet_kech_volaar.md",
+    "campaign/sharn/npcs/olwen-marrick.md",
+    "campaign/sharn/npcs/ghash-duurkat.md",
+    "campaign/sharn/npcs/vaazan-dhakaan.md",
+    "campaign/sharn/npcs/shaala-dhakaan.md",
+    "campaign/sharn/locations/loc_jashaarat.md",
+    "campaign/sharn/locations/loc_malleons_gate.md",
+    "campaign/sharn/locations/loc_university_district.md",
+    "campaign/sharn/situations/case_the_reclaimers.md",
+    "campaign/sharn/situations/case_the_dezina_consignment.md",
+    "campaign/sharn/situations/case_the_kept_word.md",
+    "campaign/sharn/situations/_seeds.md",
     "campaign/sharn/situations/case_forget_the_cogs.md",
     "campaign/sharn/situations/handouts/condemnation_notice.md",
     "campaign/sharn/situations/handouts/cold_key_object.md",
@@ -238,23 +269,7 @@
     "campaign/sharn/situations/handouts/broadsheet_fallen_collapse.md",
     "campaign/sharn/situations/handouts/broadsheet_cold_key.md",
     "campaign/sharn/factions/boromar-vs-daask.md",
-    "campaign/sharn/locations/loc_brilliant.md",
-    "campaign/sharn/locations/loc_bazaar.md",
-    "campaign/sharn/npcs/lucan-drey.md",
-    "campaign/sharn/locations/loc_callestan.md",
-    "campaign/sharn/locations/loc_depths.md",
-    "campaign/sharn/locations/loc_fallen.md",
-    "campaign/sharn/locations/loc_firelight.md",
-    "campaign/sharn/locations/loc_khybers_gate.md",
-    "campaign/sharn/locations/loc_underlook.md",
-    "campaign/sharn/locations/README.md",
-    "campaign/sharn/situations/case_the_cold_key.md",
     "campaign/sharn/locations",
-    "method/03_method/Fantasy City Creation Method.md",
-    "campaign/sharn/situations/handouts/seance_reading_card.md",
-    "campaign/sharn/situations/handouts/seance_invitation.md",
-    "campaign/sharn/situations/handouts/README.md",
-    "campaign/sharn/npcs/aelis-donnar.md",
     "campaign/sharn/situations/handouts",
     "settings/sharn/03_master/forge_of_the_artificer",
     "settings/sharn/_split_foa.py",

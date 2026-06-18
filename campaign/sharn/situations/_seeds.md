@@ -33,9 +33,31 @@ Sitni modularni sastojci za ubacivanje gdje ima smisla. Nisu priča; apstraktni 
 - Ako zaštite svjedoka u skrivanju → neko moćan ih zapamti kao prepreku; svjedok postaje prvi pravi adut, ali i meta.
 - Ako naprave javni uspjeh → otvara se put ka tieru 2 (reputacija, §2 i §1 pravila), ali i pažnja većih sila.
 
+## Dhakaani i Morgrave luk (seedovi, vidi [[_braid_dhakaan]])
+
+Strong starts:
+- Goblin dijete utrči u agenciju sa porukom koju ne zna pročitati: daashor urezi koji svijetle na [[lavren|Lavren]]in dodir, a niko drugi ih ne vidi.
+- [[shaala-dhakaan|Shaala]] pjeva na uglu Malleon's Gatea i gomila ućuti; kad stane, kaže samo jedno ime, [[lavren|Lavrenino]].
+- [[esme-calderwood|Esme]] ostavi pod vratima stranicu inventara Dezina muzeja i jednu rečenicu: "moj mentor je sad mrtav zbog ovoga."
+- Sfinga [[University District|Flamewind]] pozove jednog PC-a po imenu prije nego što su ga ikome rekli.
+
+Floating secrets & clues:
+- Komad iz Morgrave pošiljke nije sa juga; urezi su daashor, iz Ja'shaarata, a ne iz Xen'drika.
+- Skriveni goblini (Kech Volaar) traže nešto pod gradom, i nisu jedini; druga, ratoborna ekipa ([[vaazan-dhakaan|Kech Shaarat]]) ide istim tragom.
+- Morgrave ne krade svoje blago, "deaccessionira" ga; svaki otkup ide na "privatnu kolekciju" bez imena.
+- Pod Malleon's Gateom postoji prolaz u stari grad koji goblini znaju, a klone ga se.
+- Zvuk u dubinama otvara i zatvara kamene prolaze; pogrešan ton budi odbrane.
+- Ghaal'dar su za prave Dhakaani "pali rod"; biti goblin iz grada ovdje znači i vrata i sumnju.
+
+Reactions:
+- Ako [[lavren|Lavren]] dokaže zaslugu pred [[shaala-dhakaan|Shaalom]] (Kech Volaar) postaje saveznik, ali Kech Shaarat je zapamti kao metu.
+- Ako se kamen uzme grubo ili ode gore (Morgrave/kolekcionar), i Volaar i Shaarat postaju neprijatelji, a pjesma utihne.
+- Ako se pritisne [[olwen-marrick|Morgrave]], udarac se vrati kroz zabranu pristupa biblioteci i vaultovima (smetnja kasnijim slučajevima).
+- Ako se previše kopa oko [[ghash-duurkat|Ghasha Duurkata]], njegova Lords of Dust sjenka primijeti i party.
+
 ## Encounter seeds  (vezani za istaknute lokacije)
 
-> Pune theme-park lokacije sa sporednim aktivnostima: [[loc_underlook]], [[loc_bazaar]], [[loc_fallen]], [[loc_callestan]], [[loc_depths]], [[loc_brilliant]], [[loc_firelight]], [[loc_khybers_gate]]. Vidi `locations/`.
+> Pune theme-park lokacije sa sporednim aktivnostima: [[loc_underlook]], [[loc_bazaar]], [[loc_fallen]], [[loc_callestan]], [[loc_depths]], [[loc_brilliant]], [[loc_firelight]], [[loc_khybers_gate]], [[loc_university_district]], [[loc_malleons_gate]], [[loc_jashaarat]]. Vidi `locations/`.
 - **Bazaar (Dura):** svađa trgovaca preraste u tuču kad neko prepozna ukradenu robu na tuđoj tezgi; [[vundry|Vundry]] sve gleda i ništa ne govori besplatno.
 - **Underlook:** sumnjiv gost se useli u Berranov inn i prati ko ulazi u agenciju.
 - **Fallen (Lower Dura):** kondemnacijski nalog zalijepljen na vrata porodice koja nema kud; sveštenica Faela moli za pomoć među ruševinama Glass Towera.
