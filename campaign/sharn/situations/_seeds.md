@@ -3,7 +3,7 @@
 Sitni modularni sastojci za ubacivanje gdje ima smisla. Nisu priča; apstraktni su od toga gdje i kako će se javiti. Miješaj sa slučajevima (`case_*.md`), party kukama i frontovima. Splet tri uvodna slučaja je u [[_braid]]. Vidi `situations/README.md` za tipove.
 
 ## Strong starts (otvaraju scenu/sesiju, blizu akcije)
-- Klijent već čeka u [[berran-coal|Berranovom]] innu kad agencija ujutro otključa; mokar je do kože i neće reći ime dok ne sjedne leđima uza zid.
+- Klijent već čeka u [[berran|Berranovom]] innu kad agencija ujutro otključa; mokar je do kože i neće reći ime dok ne sjedne leđima uza zid.
 - [[tully-sixfingers|Tully Sixfingers]] banê bez daha: "Pitali su za vas. Krupni momci. Ne znam ime, znam da plaćaju." Pa traži pecivo.
 - [[sapha-vaan|Sapha Vaan]] ostavi neoznačenu kovertu pod vrata: jedan dosije koji "Watch zvanično nema", i preko njega žuta cedulja: *patrola te noći nije prošla. Pitaj se zašto.*
 - Magični predmet koji je agencija povezala s prošlim slučajem osvane na tezgi u Bazaaru, ponuđen kao "iz privatne kolekcije", a na boku mu sitan presječeni krug.

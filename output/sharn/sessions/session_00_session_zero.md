@@ -119,16 +119,16 @@ Ovo je dokument koji popunjavaš ZAJEDNO sa igračima na Session 0. Svaka stavka
 Osam uloga iz pravila. Svaki lik uzima tačno jednu; mijenja se samo uz veliki narativni razlog. Nepopunjenu korisnu ulogu može uzeti office manager (NPC). Puni opis sposobnosti po tieru je u `agencija_pravila.md §4`. **Ne dodjeljujemo unaprijed; igrači biraju za stolom.**
 
 
-| Uloga                    | Šta radi (ukratko)                                                 | Kako radi / ključni alat                                         | Ko uzima |
-| ------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------- | -------- |
-| Lead Investigator        | vodi slučajeve, lice agencije, razrješava sporove (dvostruki glas) | Final Say, Inspired Decision; *Command Token*                    | ›        |
-| Archivist                | zapisi, lore, Morgrave, identifikuje ljude; snižava trošak (t3)    | Need to Know, Best Practices; *Record Stone*                     | ›        |
-| Forensic Artificer       | dokazi, supstance, otrovi, čita protivnike, naprave                | Read the Opposition, Substance Analysis; *Investigator's Lenses* | ›        |
-| Liaison / Front of House | klijenti, javna slika, informanti, zapošljavanje                   | Word on the Street, Always Hiring; *Sending Stone*               | ›        |
-| Tracker                  | osmatranje, praćenje, rute kroz Sharn, prevoz, mape                | Safe Route, Shortcut Map; *Spyglass of Clairvoyance*             | ›        |
-| Notary                   | ugovori, registracija, kodovi (House Sivis)                        | Gift of Words, Scroll Service; *Document Satchel*                | ›        |
-| Bursar                   | novac, evidence lockup, nabavka, procjena vrijednosti              | What a Deal, That Thing You Need; *Evidence Satchel*             | ›        |
-| Coroner                  | pregled mrtvih, uzrok i "vrijednost" smrti, omeni                  | Read the Kill, Death's Omen; *Occultant Abacus*                  | ›        |
+| Uloga                          | Šta radi (ukratko)                                                 | Kako radi / ključni alat                                         | Ko uzima   |
+| ------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------- | ---------- |
+| Lead Investigator              | vodi slučajeve, lice agencije, razrješava sporove (dvostruki glas) | Final Say, Inspired Decision; *Command Token*                    | › Kragz    |
+| Archivist i Busar              | zapisi, lore, Morgrave, identifikuje ljude; snižava trošak (t3)    | Need to Know, Best Practices; *Record Stone*                     | › Marcus   |
+| Quater Master                  | dokazi, supstance, otrovi, čita protivnike, naprave                | Read the Opposition, Substance Analysis; *Investigator's Lenses* | › Lavren   |
+| Forgering i uvjezbavanje glume | klijenti, javna slika, informanti, zapošljavanje                   | Word on the Street, Always Hiring; *Sending Stone*               | › Zerya v3 |
+| Tracker                        | osmatranje, praćenje, rute kroz Sharn, prevoz, mape                | Safe Route, Shortcut Map; *Spyglass of Clairvoyance*             | ›          |
+| Notary                         | ugovori, registracija, kodovi (House Sivis)                        | Gift of Words, Scroll Service; *Document Satchel*                | ›          |
+| Bursar                         | novac, evidence lockup, nabavka, procjena vrijednosti              | What a Deal, That Thing You Need; *Evidence Satchel*             | ›          |
+| Coroner                        | pregled mrtvih, uzrok i "vrijednost" smrti, omeni                  | Read the Kill, Death's Omen; *Occultant Abacus*                  | ›          |
 
 
 › Office manager (NPC) popunjava ulogu (ako neku želimo a niko je ne uzme): ______________
@@ -222,8 +222,11 @@ Na tieru 1 ured je skroman: biramo 1 do 2 sobe koje "već imamo", ostalo je wish
 
 - **Kragz (Tarik)** — ex-Watch inspektor, framovan od The Pilfered Wand.
 › Lični cilj: _______________  Kuka: očistiti ime / srediti Pilfered Wand?  Wishlist: __________  Mana: __________
-- **Marcus (Emir)** — arheolog, opsjednut Morgrave korupcijom; nosi musket Skybreaker.
-› Lični cilj: _______________  Kuka: koje "istine" lovi?  Wishlist: __________  Mana: __________  [DM: Skybreaker tajna ide svojim tempom]
+- **Marcus (Emir)** — arheolog, opsjednut Morgrave korupcijom; nosi musket Skybreaker. Backstory razrađen, vidi [[marcus_handout]] (player) i `party/marcus-hale.md` (DM).
+  - **Imamo:** sirotište Lower Dura (sa svima); ratni scavenger s PTS-om (vojnik/izviđač, Breland); Skybreaker nađen u Dragon's Cave (prvi artefakt, nikad ga ne ispušta); ušao na Morgrave preko pawn shopa (prodao predmet, dobio upis + mjesečni iznos); par godina ga Morgrave trenirao; stigao mu **paket** ("Morgrave je laž" + dokazi o ratnom profiterstvu) → zato pristaje na izlazak iz grada. Kuka mu je živa i jasna.
+  - **Fali (za stolom):** lični cilj, magic-item wishlist, mana (komplikacija), te **glas i držanje** (igrač dopisuje sam). Uloga u agenciji (D5). Mentora zasad nema.
+  - **[DM] poluge:** pošiljalac paketa = [[aldous-venn|Aldous Venn]] (Marcus ne zna ime); prodati predmet (ljubičasti metal, mogući Dhakaani komad, identitet otvoren) veže ga za [[case_the_dezina_consignment]] i [[_braid_dhakaan]]; Skybreaker tajna ide svojim tempom.
+› Lični cilj: _______________  Kuka: paket / "Morgrave je laž", ko ga je poslao i je li istina  Wishlist: __________  Mana: __________
 - **Lavren (Josipa)** — Ghaal'dar koja traži povjerenje Kech Volaar (drevno Dhakaani carstvo).
 › Lični cilj: _______________  Kuka: koja relikvija/zadatak za Kech Volaar?  Wishlist: __________  Mana: __________
 - **Zerya v3 (Iva)** — Warforged Warlock (the Archfey), bivši cirkuski performer.
@@ -282,3 +285,4 @@ Kad popunim ovo sa igračima, prenosim:
 - six truths, ton, lines/veils → `campaign/sharn/` (party.md / README) i u obzir pri svakoj sesiji
 - nove niti → `threads.md`; aktivne sile → `factions/`; prvi slučaj → `situations/` pa u `session_01`.
 
+Koji mjesec ali im ne ide. Kraj drugog mjeseca fali 100 od 120 gp. 

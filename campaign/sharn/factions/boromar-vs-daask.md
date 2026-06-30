@@ -17,4 +17,4 @@ Dvije sile podzemlja u otvorenom ratu za ulice Sharna. Ambijent kampanje i izvor
 ( čekiraj kad se desi za stolom )
 
 ## Trenutno stanje  [DM]
-- Aktivan rat, trese Lower Dura, Callestan, Cogsgate, Oldkeep. [[berran-coal|Berran Coal]] (`npcs/berran-coal.md`) plaća Boromar "zaštitu", što je poluga ka agenciji. Daask gura dragon's blood (veže slučaj u Cogsu).
+- Aktivan rat, trese Lower Dura, Callestan, Cogsgate, Oldkeep. [[berran|Berran Coal]] (`npcs/berran-coal.md`) plaća Boromar "zaštitu", što je poluga ka agenciji. Daask gura dragon's blood (veže slučaj u Cogsu).

@@ -35,11 +35,11 @@ Lične rane se ne otvaraju u uvodu, samo zazvone. Po jedan tih eho na slučaj, n
 ## Kako voditi tri zajedno
 - **Otvori slučajem 1** ([[case_the_cold_key]]): on uvodi ured, kako klijenti dolaze, fenceve i Watch, i posije prvi split-ring sigil. Idealan prvi klijent.
 - Slučajeve 2 i 3 pusti da dođu po izboru igrača; svaki ponovi tri-četiri niti iz gornje liste, ali nikad ne objašnjava splet umjesto igrača.
-- **Tabla s koncem.** Kad party drugi put naiđe na split-ring sigil ili na Pola, daj im scenu u uredu (Quill donosi čaj, Berran proviri) gdje mogu fizički složiti tragove. Kad sami povuku liniju Pol → inventar → zaštita u Watchu, to je kraj uvoda i početak prave kampanje. Nagradi to, ne objašnjavaj.
+- **Tabla s koncem.** Kad party drugi put naiđe na split-ring sigil ili na Pola, daj im scenu u uredu ([[lily|Lily]] donosi kafu, Berran proviri) gdje mogu fizički složiti tragove. Kad sami povuku liniju Pol → inventar → zaštita u Watchu, to je kraj uvoda i početak prave kampanje. Nagradi to, ne objašnjavaj.
 - **Cijena.** U svakom slučaju ostavi jedan gorak izlaz otvoren (vidi pojedinačne fajlove). Hard-boiled ne znači da gube; znači da svaka pobjeda ima rub.
 
 ## Veze ka frontovima i nitima
 - [[the-pilfered-wand]], [[corrupt-watch]] (glavni splet), [[threads]] (Pilfered Wand, Marr, Nessa, čišćenje imena).
 - [[boromar-vs-daask]] i [[house-tharashk]] kao ambijentalni pritisak (ulica i guildа), ne kao srž spleta.
-- Novi NPC-jevi: [[yvanne-toller]], [[coll-renner]], [[paddric-solliver]], [[lucan-drey]], [[aelis-donnar]]. Postojeći u igri: [[mister-pol|Pol]], [[sevren-marr|Marr]], [[vundry|Vundry]], [[sapha-vaan|Sapha]], [[tam-brennick|Tam Brennick]], [[maazi-jhorgunaltall|Maazi]], [[berran-coal|Berran]], [[quillian-sett|Quill]], Faela (iz [[Fallen]]), Celyria ir'Tain (iz [[Brilliant]]).
+- Novi NPC-jevi: [[yvanne-toller]], [[coll-renner]], [[paddric-solliver]], [[lucan-drey]], [[aelis-donnar]]. Postojeći u igri: [[mister-pol|Pol]], [[sevren-marr|Marr]], [[vundry|Vundry]], [[sapha-vaan|Sapha]], [[tam-brennick|Tam Brennick]], [[maazi-jhorgunaltall|Maazi]], [[berran|Berran]], [[lily|Lily]], Faela (iz [[Fallen]]), Celyria ir'Tain (iz [[Brilliant]]).
 - Handouts: `situations/handouts/` (po slučaju).

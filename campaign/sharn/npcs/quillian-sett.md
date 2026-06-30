@@ -1,5 +1,7 @@
 # Quillian "Quill" Sett
 
+> [DM] **Nije više u igri kao Office Manager.** Igrači su za recepciju/ured uzeli svoju dadilju iz sirotišta, [[lily|Lily]] (shifter), pa Lily sad drži tu ulogu (§3.1). Quill ostaje u banci za kasnije: stari kontakt, druga agencija, ili klijent/komplikacija preko House Sivis niti dole. Ne brisati.
+
 - Iz Sharn mastera? Ne, [HOMEBREW] (veže se na kanonsku House Sivis temu: notarizacija i falsifikovanje blank dokumenata, vidi `settings/sharn/03_master/cross_references.md`).
 - Rasa / klasa: gnome; civilni NPC (po pravilima §3.1 office manager: proficient Persuasion + dvije vještine po izboru, ovdje Investigation i calligrapher's tools). Statove uzeti po potrebi (commoner/noble baza).
 - Veza sa party-jem: office manager [[agencija|agencije]]. Vodi ured u Underlooku, knjige, raspored, prepisku i papirologiju. Prvi glas koji klijent čuje i posljednji koji zna gdje je koja para otišla.

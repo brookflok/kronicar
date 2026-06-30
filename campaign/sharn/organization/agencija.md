@@ -28,3 +28,4 @@ Vlastita organizacija party-ja. Tretira se kao **frakcija kojom oni upravljaju**
 - Ime agencije (na **Session 0**).
 - Prvi slučajevi i klijenti = start kampanje (gradimo u `situations/`).
 - **The Pilfered Wand** kao nerazriješena nit (Kragzov nemesis iz oneshota; Vikari, zakya rakshasa) — kandidat za `factions/`.
+![[Pasted image 20260620191917.png]]

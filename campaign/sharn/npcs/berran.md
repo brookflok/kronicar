@@ -1,6 +1,7 @@
-# Berran Coal
+# Berran 
 
-- Iz Sharn mastera? Ne, [HOMEBREW] (lokacija Underlook, Middle Dura, kanonski inn/inquisitive distrikt, vidi `settings/sharn/02_summaries/summary_01` i `summary_02`).
+![[Pasted image 20260627110610.png]]
+
 - Rasa / klasa: dwarf; civilni NPC (commoner/veteran baza po potrebi).
 - Veza sa party-jem: gazda zgrade i susjednog inna u kojem (ili iznad kojeg) [[agencija|agencija]] drži ured. Naplaćuje kiriju, ali je i prvi komšija, izvor tračeva s ulice i mjesto gdje klijenti čekaju.
 - Character archetype (za roleplay): čađav, širokih ramena, bivši kovač iz the Cogs koji je "izašao gore na zrak". Malo riječi, suh humor, pamti svako lice koje mu je prošlo kroz vrata. Vari grozno "memory ale" za koje tvrdi da pomaže pamćenju. Fer dok ga ne prevariš.

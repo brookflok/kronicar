@@ -3,12 +3,15 @@
 - Rasa / klasa / level: **hobgoblin** (ona; Dhakaani lineage, **Ghaal'dar**) / **Artificer — Battle Smith** / **level 5** · background **Technical Support** [homebrew/flavor]
 - Background (kako ga je igrač dao): u sirotište završila jako rano, ali je dječija sjećanja na njen narod oduvijek progonila i tjerala da se želi vratiti. Od tinejdžerskih dana **opsjednuta borbom kao vještinom** — ne samo pokretom, nego cijelom pripremom i opremom. Tokom rata su razne strane i fakcije koristile **njene modifikacije** (preko inženjerskih guildova, podzemnih puteva i prilika usput). Ne vidi to kao izdaju nacije u kojoj su odrasli ("kako mogu izdati nešto što me nikad nije prihvatilo"). Zna da rat nikad ne završi, samo pauzira, pa uvijek treba biti spremna. Kad ne radi na opremi, sluša **Dhakaani muziku** i sanjari o otkrićima iz "drvenog carstva". Nije naročito snažna ni okretna spram drugih hobgoblina, ali voli dobru tuču i kad izgubi. Vjeruje da je potekla iz nekog **Kech-a** (nasljednika Dhakaani carstva). U kontaktu je sa **Kech Volaar** i nastoji zadobiti njihovo povjerenje: traga za ostacima Dhakaani carstva, izrađuje oružje, oklope i štitove po njihovom nahođenju.
 - Motivacije i ciljevi: povratak korijenima, povjerenje Kech Volaar, Dhakaani relikvije i zanat.
-- Bonds: sirotište sa party-jem; Kech Volaar (vanjski).
+- Bonds: sirotište sa party-jem; [[doruuk-vaarn|Doruuk Vaarn]] (mentor/prva veza izvan sirotišta); Kech Volaar (vanjski).
+- **Igračev player-facing handout:** [[lavren_handout]] (čisto "ono što Lavren zna o sebi"; bez [DM] Kech politike).
 - Magic-item wishlist: TBD (vjerovatno crafting/oružje/oklop tematski).
 - Veza sa Sharnom: TBD (vidi Sharn veze — Sharn je idealan zbog Dhakaani prošlosti).
 
 ## Lične niti (potencijal, [DM])
-- Traganje za Dhakaani ostacima u/ispod Sharna; dokazivanje pred Kech Volaar.
+- Traganje za Dhakaani ostacima u/ispod Sharna; dokazivanje pred Kech Volaar. Lavren zna da grad stoji nad [[loc_jashaarat|Ja'shaaratom]] (to je sad u handoutu).
+- **Mentor [[doruuk-vaarn|Doruuk Vaarn]]:** hobgoblin daashor kovač, Lavrenina prva veza izvan sirotišta i njena nit ka Kechovima. [DM] izbačen iz svog Kech-a jer je odbio iskovati/predati nešto (oružje ili relikviju). Glas razuma kad je Kech politika povuče preduboko, ili bolna tačka ako je ono što je odbio baš ono za čim Lavren traga.
+- **Ulični kontakti:** kroz život u Sharnu ukrstila se s raznim kriminalnim organizacijama, nekima se zamjerila, s nekima bila na dobroj nozi. Banka starih dugova i zamjerki koje se mogu aktivirati po potrebi.
 - "Rat samo pauzira" — uvijek spremna; otvoreno za napetosti.
 
 ## Sharn veze  [DM]
@@ -18,10 +21,12 @@
 - **News hook (998 YK):** Kech Volaar duur'kale su **javno izložile dhakaanske relikvije pred učenjacima Korranberga** (prvi javni nastup skrivenih goblina) — direktna kuka za Lavren. (Vidi `world/` vijesti.)
 
 ## Stanje / bilješke
-- Kompletno. "Drevno carstvo" riješeno; Kech Volaar veza obogaćena iz `world/` brifinga.
+- "Drevno carstvo" riješeno; Kech Volaar veza obogaćena iz `world/` brifinga. Player-facing tekst: [[lavren_handout]].
+- Mentor formalizovan kao NPC [[doruuk-vaarn|Doruuk Vaarn]] (kovač, daashor bez Kech-a). Ulični kontakti i Ja'shaarat svijest dodani gore.
+- Otvoreno za Session 0 (igračev izbor): lični cilj/wishlist/mana, glas i držanje, uloga u agenciji. Vidi [[session_00_session_zero]].
 
-Osoba kod koje je dobila prvi posao, neko ko ima svoju kovacnicu i bavi se preradom metala i oruzija i zapravo je tako skupila u kontakt sa Kechovima i zainteresirala se sa ovim svim radi te osobe. Prva osoba na koju si se spojila nakon dugo godina u sirotistu, imala neku prvu priliku da se dokaze i pozitivno je afirmirao i zacudilo ju je kako je to bilo fino i ako je ne zna cijeli zivot. 
-Starija figura od nje, koji je prihvatio svoju nesavrsenostvom, ne trazi da bude unutar keha i smatra da treba biti neka disciplina i kako bi vjezbao svoju disciplinu i ne izgubio se u cijelom vrtlogu rata i korupcije. Na taj nacin su se povevazali. Moguce da je izbacen iz Kecha nije moranje ali zvuci kao zanimljiv konflikt Josipi. 
-
-Kroz zivot u Sharnu stupila je u kontakt sa raznim krimnalnim organizacijama. I nekima je se sigurno kroz zivot zamjerila, dok sa nekima je bila oke. 
+### Igračeve sirove bilješke (izvor, sažeto gore)
+- Prvi posao kod kovača sa vlastitom kovačnicom (prerada metala i oružja); preko njega ušla u kontakt s Kechovima i zapalila se za sve. Prva osoba s kojom se povezala nakon sirotišta, prva prilika da se dokaže, iznenadilo je koliko je bilo fino.
+- Starija figura, pomirena s vlastitom nesavršenošću, ne traži mjesto u Kech-u, drži do discipline da se ne izgubi u vrtlogu rata i korupcije. Moguće izbačen iz Kecha (nije obavezno, ali zanimljiv konflikt za Josipu) → iskorišteno kao [DM] tajna kod [[doruuk-vaarn|Doruuka]].
+- Kroz život u Sharnu kontakt s raznim kriminalnim organizacijama, nekima se zamjerila, s nekima bila oke.
 

@@ -18,3 +18,7 @@ Attractions su **location-first**: dočaravaju to mjesto i grad, i ne moraju se 
 - [[loc_university_district]]: Morgrave University i Dezina muzej (Upper Menthis). *nova*
 - [[loc_malleons_gate]]: goblinoidni slum nad starim gradom (Lower Dura). *nova*
 - [[loc_jashaarat]]: utopljeni dhakaanski grad pod gradom (UnderSharn). *nova*
+- [[loc_high_walls]]: zidani kvart izbjeglica, warforged Cog Carnival (Lower Tavick's Landing). *nova*
+- [[loc_mithral_tower]]: kovani luksuz elite, Unicorn Estate (Upper Central Plateau). *nova*
+- [[loc_old_sharn_dig]]: Daaskov iskop u ruševinama pod gradom (UnderSharn / Old Sharn). *nova*
+- [[loc_terminus]]: kapija u grad, lightning rail stanica (Lower Tavick's Landing). *nova*
