@@ -56,7 +56,7 @@ Vauld pušta da svi osjete tu promjenu (kako zrak grije, kako svjetlo nestaje, k
 #### Ko je Onatar? (Vauld objasni prije nego uđu u hram)
 Prije nego grupu uvede u hram, Vauld u par rečenica objasni o kome se radi, jer pola gradskih turista ni ne zna.
 
-> "Onatar. Sovereign of Fire and Forge. Jedan od Sovereign Hosta, devet bogova koje pola Khorvairea štuje. On je bog kovača i artificera, onaj koji, kažu, stoji uz svaki nakovanj i vodi ruku svakom ko zna oslušnuti. Mi dwarfovi ga posebno volimo, odmah do Kol Korrana. Ne tražimo da nam se ukaže; vjerujemo da je tu svaki put kad nešto stvaramo. Znak su mu ukršteni čekić i kliješta, a ponekad mjedeni zmaj."
+> "Onatar. Sovereign of Fire and Forge. Jedan od Sovereign Hosta, devet bogova koje pola Khorvairea štuje. On je bog kovača i artificera, onaj koji, kažu, stoji uz svaki nakovanj i vodi ruku svakom ko zna oslušnuti. Mi dwarfovi ga posebno volimo, odmah do Kol Korrana. Ne tražimo da nam se ukaže; vjerujemo da je tu svaki put kad nešto stvaramo. Znak su mu ukršteni čekić i kliješta, a ponekad bronzani zmaj."
 
 Bitno za ton: u Eberronu se ne očekuje da se bog pojavi i riješi problem. Vjera je u tome da uspjeh ruke odražava božju pomoć. Kovač ne dokazuje da Onatar postoji, nego vjeruje da mu Onatar vodi čekić. Zato je obična kovačnica već "blizu boga", a bazen koji metal čini boljim, to je za vjernika živi dokaz.
 
@@ -71,7 +71,7 @@ Bitno za ton: u Eberronu se ne očekuje da se bog pojavi i riješi problem. Vjer
 
 - **O čemu priča:** da je ovo grad pod gradom bez Watcha i bez ikakve vlasti, da Daask ovdje vlada, i da goblin koji izgleda bezopasno može biti vampire, wererat, rakshasa ili nešto gore. Ovo je granica ture i lekcija iz opreza, ne mjesto za razgledanje.
 
-> "Odavde gledamo, ne idemo. Vidite onu krčmu? Tamo je sigurnije nego na ovom mjestu na kom stojimo, jer tamo svi paze na primirje, a ovdje pazim samo ja. Ko se odvoji od grupe, traži ga sutra Watch, ne ja. Ruke iza leđa, i nazad."
+> "Dovde i ni korak dalje. Vidite onu krčmu sa krvavim pragom? Vjerovali ili ne, to je najmirnije mjesto u cijelom ovom kraju. Za šankom sjede ogri i medusas, a niko nikog ne dira, jer čak ni Daask ne lomi primirje pod tim krovom. E sad razmislite kakav je ostatak kraja kad je klaonica puna čudovišta najsigurnije mjesto u njemu. Zato i stajemo ovdje. Ne zato što je tamo opasno, nego zato što se dotle ne stigne, a da te neko usput ne odmjeri za večeru. Onaj goblin što vas gleda iz rupe možda je samo goblin. A možda je nešto što je jutros obuklo goblina. Ostanite uz mene, u koloni, na svjetlu. Ko ovdje odluta, ne izgubi se. Nestane."
 
 **[DM]** Idealna tačka da nešto pođe po zlu ako želiš akciju: zalutali student, Daask koji testira granicu, ili da party prepozna nešto (Cask, dragon's blood, Temple of the Six) za buduću nit. Vidi [[Khyber's Gate]] za pune sadržaje.
 
@@ -86,7 +86,7 @@ Ovdje treba biti precizan, jer "kanalizacija" zvuči kao jedna stvar, a zapravo 
 
 **O čemu priča.** Kako gornji grad spušta smeće niz okna, kako magewrighti čiste vodu, i, najvažnije za njega, kako su midden chambers zapravo arhiv: ono što grad baci priča istinu koju zvanične knjige preskaču. Dublje u hrpi = starije. Pomene i sewer klanove (mirni Quiet Folk, dwarfski Grave Diggers, vidi [[The Sewers]]) kao ljude koji ovdje žive i znaju svaki tunel, ne kao čudovišta. Tu se vidi odakle je sam Vauld potekao.
 
-> "Smetlište je najpoštenija knjiga u gradu. Tornjevi lažu o sebi, a smeće ne zna lagati. Hoćeš da znaš kako je neko zaista živio prije sto godina? Ne čitaj njegov nadgrobni natpis. Prekopaj mu otpad. I ostani u krugu svjetla, molim lijepo. Mrak ovdje ima zube."
+> "Gore vam ispričaju historiju kakvu žele da pamtite. Kraljeve, bitke, datume uklesane u mramor. Ali čovjek ne laže u onome što baci. U ovim hrpama leži istina svakog doma iznad nas: šta su jeli, šta su pili, šta su krili, šta nisu mogli priuštiti. Dajte mi razbijen tanjir, oglodanu kost i praznu bočicu lijeka, i ispričat ću vam o toj porodici više nego ijedna knjiga u Morgrave biblioteci. Mramor pamti kako su htjeli da izgledaju. Smeće pamti kako su zaista živjeli."
 
 ### 6. Zapečaćene kapije ka the Depths: dokle nauka smije  [[The Depths]]
 **Kako izgleda:** posljednja stanica je slijepi kraj jednog starog hodnika, gdje prolaz zatvara ogromna kapija od kovanog gvožđa, urasla u kamen. Po njoj se vide tragovi magije: urezani pečati (arcane seals) koji slabo svijetle u mraku, davno postavljeni da niko ne prođe. Pred kapijom je tiho i hladno, daleko od tutnjave peći. Iza nje, kažu, ne nastavlja se kanalizacija nego nešto mnogo starije.
@@ -95,18 +95,21 @@ Ovdje treba biti precizan, jer "kanalizacija" zvuči kao jedna stvar, a zapravo 
 
 Ne otvara je. Drži kratko predavanje o tome da je iza nje grad stariji od velikog grada, i zašto je ulaz zatvoren vjekovima.
 
-> "Iza ovih vrata je razlog zašto postojim. Gradovi prije ovog grada. Galifar Prvi ih je zazidao gvožđem i magijom i rekao: ne diraj. I evo nas pet vjekova kasnije, ja vam pokazujem bravu i pričam o sobi koju nikad nisam vidio. To vam je arheologija. Pola posla je naučiti šta NE smiješ otvoriti."
+> "Iza ovih vrata nije kanalizacija. Iza njih je grad. Stariji grad, na kom ovaj naš stoji kao nova kuća na tuđim temeljima. A pod tim gradom još jedan, i pod njim još jedan, sloj na sloj, svaki sazidan na ruševinama onog prije sebe. Najgornji je pao prije pet vjekova, u War of the Mark, kad se pola starog Sharna survalo u dubinu. Galifar Prvi ga nije obnavljao. Poravnao je šut, sazidao novi grad povrh njega, a stare ruševine dao zapečatiti gvožđem i magijom. Dijelom zato što je kamen bio nesiguran i gutao radnike. A dijelom, šapuću, zato što je dolje ostalo stvari koje je bolje ne buditi. Napuštene riznice velikih kuća iz vremena Rata Znaka. Zaboravljene enklave. I kamen stariji od bilo kog kralja, stariji od nas ljudi na ovom kontinentu. Najdublji slojevi nisu ni brelishki ni galifarski. Niko od živih ne zna ko ih je zidao. Eto šta je iza ove brave. Ja vam mogu pokazati samo bravu. Šta je iza nje, to više nije lekcija, nego ekspedicija."
 
 **[DM]** Vauld zaista ne zna šta je sve iza: Calderus i Servants ([[The Depths]]), [[loc_jashaarat|Ja'shaarat]] na dnu svega. Kapija je savršena kuka: party koja hoće dolje sad zna gdje je vrata i ko ima ključ (Grave Diggers, vidi [[garrum-vauld]]). Veže ka [[loc_old_sharn_dig]] i [[loc_depths]].
 
-## Mjesta za arheologiju (gdje Vauld kopa, ili sanja da kopa)
-Tura prelazi preko njih, a prava iskopavanja su zasebne avanture (party niti):
+## Vauldova arheologija: tri sloja, tri problema
+Ovo nisu nasumične tačke na mapi, nego jedna te ista priča ispričana kroz dubinu. Što se dublje kopa, to je nalaz vredniji, a kopanje teže, opasnije i zabranjenije. Vauldova cijela frustracija stane u tu rečenicu: jedino što smije kopati je najmanje vrijedno, a ono za čim žudi je zaključano, opljačkano ili izvan njegovog znanja. Tu party ulazi u priču.
 
-- **Midden chambers u [[The Sewers|Sewerima]]:** legalno, sigurno (uz Watch tačku), bogato sitnim nalazima. Vauldov omiljeni "teren za vježbu". Stratigrafija otpada: dublje = starije.
-- **Old Sharn dig ([[loc_old_sharn_dig]]):** ruševine starih gradova duboko ispod Cogsa, gdje Daask tajno kopa za relikvijama. Vauldov san: dokumentovana Morgrave iskopina umjesto Daaskove pljačke. Tu luta i duh inquisitivea [[pfingston-nezzelech|Pfingstona]], živa "lekcija iz historije".
-- **Pfingstonove ruševine ([[loc_old_sharn_dig]]):** sloj starog grada srušenog u War of the Mark; mjesto za usmenu historiju i za slučaj *Eye of Aureon*.
-- **Rub Ja'shaarata ([[loc_jashaarat]]):** dhakaanski kamen koji "pamti", daashor zanat. Vauld zna put dotle, ali ne razumije šta vidi; tu predaje [[ghash-duurkat|Ghashu]] i [[lavren|Lavren]]. Najdublji grob "na grobu na grobu".
-- **Zapečaćene kapije ka [[The Depths|Depthsima]]:** granica dozvoljenog. Arheologija kao disciplina suzdržavanja.
+### Sloj prvi: midden chambers, jedino što smije kopati  [[The Sewers]]
+Ovo je jedina iskopina koju Vauld vodi legalno i na svjetlu dana, jer je uz čuvani purification chamber i nikom ne smeta da neko prebire po smeću. Otpad se taloži u slojevima, pa se čita kao godovi drveta: što dublje kopaš, to si dalje u prošlost. Iz tih hrpa se izvuče svakodnevni život grada (šta se jelo, čime se trgovalo, šta se krilo), historija malog čovjeka koju zvanične knjige ne bilježe. Nauka je to čista i poštena, ali sitna, i Vauld to zna. Ovdje vodi i ogledni čas (vidi niže), jer je sigurno za početnike. **Problem:** kopa smeće dok pravo blago trune zapečaćeno pod nogama. To ga izjeda.
+
+### Sloj drugi: stari Sharn, ono o čemu sanja  [[loc_old_sharn_dig]]
+Iza zapečaćenih kapija leži grad srušen u War of the Mark, netaknut pet vjekova. Za arheologa je to nezamisliva prilika: cijeli sloj života zamrznut u trenutku katastrofe, kuće sa stvarima ostavljenim tačno gdje su pale. Vauld bi tu, da smije, radio iskopinu života: pažljivo, kvadrat po kvadrat, da svaki predmet ostane u svom kontekstu i ispriča svoju priču. **Problem:** nije sam dolje. Daask već kopa, ali kao pljačkaš, ne kao naučnik. Razvaljuju zidove i čupaju sve sjajno da prodaju ili iskoriste, i pritom uništavaju upravo ono što nalazu daje smisao, njegov kontekst. Za Vaulda je to gore od krađe; to je brisanje historije. Tu negdje luta i duh inquisitivea [[pfingston-nezzelech|Pfingstona]], doslovan svjedok kako je grad izgledao prije pada. Ovo je tačka gdje party može pomoći Vauldu da pretekne Daask, ili samo da spasi ono što se još dade spasiti.
+
+### Sloj treći: rub Ja'shaarata, gdje njegova nauka staje  [[loc_jashaarat]]
+Najdublje, ispod čak i starog Sharna, kamen se mijenja. Vauld zna datirati brelishki zid na desetljeće po načinu zidanja, ali ovaj kamen ga pobijedi: gladak je bez pukotine, ne troši se, a urezi na njemu svijetle kad ih dodirne prava ruka. To nije ruševina, to je nešto što i dalje radi. Tu Vauldova "industrijska i slojevita arheologija" udari u zid svog neznanja, i on to pošteno prizna. **Problem:** ovo je dhakaanski daashor rad, polje koje on ne poznaje. Za pravo čitanje treba mu [[ghash-duurkat|Ghash]] (dhakaanska historija) i [[lavren|Lavren]] (daashor zanat), za koje kamen i reaguje kako ne reaguje ni za koga drugog. Nalaz prevelik za jednog profesora, koji povlači party u dublje niti kampanje ([[case_the_kept_word]], [[case_the_reclaimers]]).
 
 ## Ogledni čas: "Čitanje sloja"  (terenska vježba u [[The Sewers|Sewerima]])
 Vauld povremeno ne vodi običnu turu, nego **ogledni čas**: javnu demonstraciju za one koji razmišljaju da upišu njegov kurs ili plate ekspediciju. Drži ga na sigurnom mjestu, uz purification chamber u kanalizaciji, gdje Watch tačka pruža zaštitu, a stara midden chamber posluži kao iskopina za vježbu. Traje oko dva sata.
