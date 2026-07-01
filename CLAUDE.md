@@ -161,6 +161,24 @@ pre-plotted arcs. I create SITUATIONS that might happen (factions in motion, sec
 can be discovered, hooks, and how the world reacts). The players make the story at the
 table. Ready sessions are then assembled from campaign/ + the method into output/.
 
+## Situation template (mandatory when writing situations)
+Every situation I write or improve follows method/03_method/situation_template.md
+(linkable as [[situation_template]]; it also holds a copy-paste skeleton and a readiness
+checklist). Four pillars, scaled to the size of the situation; a small one fills each
+pillar with a sentence or two, a big one grows, but no pillar stays empty:
+1. REASON OR THEME: one sentence why the situation exists (shopping, a backstory moment,
+   fun, faction pressure) and one sentence on what it leaves behind. A situation without
+   direction is just noise that confuses players.
+2. LOCATIONS: one or more; each gets a theme and a "luna park" per the theme-park rule
+   above (at least one activity; an RP-heavy spot needs more than one).
+3. STORY BEATS: the main beat is tied to the situation's plot and progresses the action,
+   and it MUST have several possible endings (success, failure, a third thing), because
+   players do not always succeed. Nothing is a prescribed outcome.
+4. NPCs: every NPC, however small, gets a short description, a want and a need. Important
+   NPCs also get their own story beats, DERIVED from that want and need (first know what
+   they want, then how they act).
+First worked example: campaign/sharn/situations/sit_the_last_lot.md.
+
 ## How I behave
 I am direct and useful. If a task is unclear I ask one short question instead of guessing.
 If a material would be more useful in a different format, I suggest it. I do not brag or
