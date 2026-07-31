@@ -16,3 +16,4 @@ Trula karika unutar Sharn Watcha: visoki činovi koji štite kriminal umjesto da
 
 ## Trenutno stanje  [DM]
 - Marr je miran i ugledan, Kragz mu je naizgled riješen problem. Front se budi prvim ozbiljnim tragom agencije ka korupciji ili Wandu. Spona ka [[the-pilfered-wand]] je ključna: srušiti Marra znači skinuti Wandu zaštitu u zakonu.
+- Odigrano: Vikari je izašao iz pritvora bez suđenja i niko u Watchu ne postavlja pitanja ([[log_session_02]]). Prvi trag, vidljiv i igračima, da neko iznutra štiti Wand. [otvoreno: je li to bila Marrova ruka]

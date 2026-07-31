@@ -13,7 +13,10 @@ Banda arkanih lopova specijalizovana za krađu magičnih predmeta. [[kragz|Kragz
 4. [ ] Pol biva razotkriven ili pritisnut; Vikari "čisti" karike (Pol nestaje ili izda).
 5. [ ] Vikari izlazi iz sjene; otkriva se da je više od lopova (rakshasa agenda).
 6. [ ] Marrova zaštita se aktivira: umjesto uličnog udara, Wand pusti zakon na agenciju (nalozi, racije, smetnje).
+7. [ ] Wand pošalje nove tragače za [[zerya-v3|Zeryom]] (prva slika poderana, [[log_session_02|Session 2]]).
 ( čekiraj kad se desi za stolom; dodaj nove kad stari padnu )
 
 ## Trenutno stanje  [DM]
-- Aktivni u Sharnu, posluju kroz posrednike; Vikari skriven. Tinjajuća nit (Session 0 odluka): pojavljuju se kao trag u slučajevima ukradene magije, ne udaraju direktno na startu.
+- Aktivni u Sharnu, posluju kroz posrednike; Vikari skriven od javnosti, ali ne i od partyja.
+- Odigrano: Vikari priveden nakon voza (priznao Kragzu namještaljku), pa opet na slobodi bez suđenja ([[log_oneshot_i_session_01]], [[log_session_02]]). [otvoreno: kako je izašao; Marrova ruka?]
+- [[log_session_02|Session 2]]: dva svjesna warforgeda "označila" [[zerya-v3|Zeryu]] kao artefakt (jača matrica s fragmentom duše); Vikari tragače uništio čim su predali sliku, a sliku je Lavrenin Steel Defender poderao. Wand sada lovi artefakt koji hoda: Zeryu.

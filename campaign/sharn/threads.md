@@ -103,4 +103,4 @@ Format po niti:
 - [otvorena] Odbjegli kobold (fireball iz sjene) i changeling iz [[log_oneshot_i_session_01|Session 1]], i dalje nepronađeni.
 - [otvorena] Lavrenina zamka: lažni pod na stepenicama agencije, dogovorena ali još nije napravljena. ([[log_session_03|Session 3]])
 - [otvorena] [[grix|Grixov]] ugled con artista narušen prvi put u sedam godina (Zeryin Mage Hand); može tražiti da mu se to nekako nadoknadi. ([[log_session_03|Session 3]])
-- [otvorena] [[Riqi]] i [[Sky Bar]] kraj lifta: prirodna osmatračnica, vidi svakog ko se spušta prema iskopavanju. ([[log_session_03|Session 3]])
+- [otvorena] [[Riqi]] i [[loc_sky_bar|Sky Bar]] kraj lifta: prirodna osmatračnica, vidi svakog ko se spušta prema iskopavanju. ([[log_session_03|Session 3]])

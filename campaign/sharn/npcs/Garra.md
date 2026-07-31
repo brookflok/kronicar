@@ -8,4 +8,7 @@
 - Jedna tajna [DM]: potčinjena je [[niho-koi|Niho Koiju]] (oni sub-boss), a iznad njega je [[boromar-vs-daask|Cavallah → Sora Katra]]. Ako preživi/pobjegne ili je party pusti, postaje živa nit ka Daask vrhu. Sluga [[rot|Rot]] (sprite) je dar od Niho Koi.
 
 ## Stanje / zadnji kontakt
-- Finale Session 1 (voz za Wroat). Ishod (mrtva / pobjegla / dogovor) otvara različite niti.
+- Za stolom se još nije pojavila uživo (zaključno sa [[log_session_03|Session 3]]). Party je zna preko pisma s tijela kobolda ([[log_oneshot_i_session_01|Session 1]]) i tuđih priča.
+- Po [[grix|Grixu]] ([[log_session_03|Session 3]]): otišla je ili upravo odlazi iz Sharna i vodi kidnapovano dijete ([[caden-dorien|Cadena]]) u Droaam; nejasno je li operacija gotova. Warforgedi s iskopavanja trebali bi svi biti mrtvi (čišćenje u toku). [DM]
+- Znala se nalaziti u [[loc_broken_anvil|Broken Anvilu]] (rekli Barba i Rogi); tamo se o njenim poslovima priča.
+- Aktivan dogovor s [[germaine-vilroy|Vilroy]]: dvije rente ako je party ubije ili privede.

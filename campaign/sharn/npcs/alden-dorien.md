@@ -10,4 +10,5 @@
 - Jedna tajna [DM]: regrutovao warforged radnike preko kuće kao "tajnu istraživačku misiju", uz plaću za šutnju i ugovore; neki su umrli. Duboko se stidi. Žena Iyana (u Fairhavenu) ne zna za otmicu. Veza ka House Orien kao budućoj klijenteli/sili.
 
 ## Stanje / zadnji kontakt
-- Uveden na Unicorn Estateu. Odnos se zaključava ishodom spašavanja Cadena.
+- Za stolom se još nije pojavio (zaključno sa [[log_session_03|Session 3]]); igrači za otetog sina znaju preko [[coal|Coal]].
+- [DM] Po [[grix|Grixu]]: [[Garra]] vodi [[caden-dorien|Cadena]] u Droaam. Vrijeme za spašavanje ističe; Aldenova panika raste.

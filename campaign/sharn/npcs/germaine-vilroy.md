@@ -10,4 +10,5 @@
 - Jedna tajna [DM]: na **Boromar** plati (uzima novac da "istražuje" ono što Boromar zanima). Kasnije je Garra zarobi i ispita; nađu je vezanu u Garrinom stanu (T4c). Boromar veza je poluga ka [[boromar-vs-daask|podzemlju]] i ka [[kragz|Kragzovoj]] prošlosti.
 
 ## Stanje / zadnji kontakt
-- Uvedena kao prvi klijent. Sudbina (zarobljena/spašena) ovisi o toku Session 1.
+- Odigrano: unajmila party za Coal slučaj i pokrila im dug ([[log_oneshot_i_session_01|Session 1]]). U [[log_session_02|Session 2]] došla u agenciju, saslušala nalaze (otmica, iskopavanje) i sklopila dogovor: dvije rente ako [[Garra|Garru]] ubiju ili privedu.
+- [DM] Prep nit "zarobljena u Garrinom stanu" (T4c) nije se desila za stolom. Boromar plata i dalje vrijedi kao skrivena poluga.

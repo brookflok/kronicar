@@ -22,3 +22,4 @@
 ## Stanje / bilješke
 - Otvoreno: **Iva još odlučuje** koje je konkretno Archfey biće (i šta želi), te ranije "verzije". Sve ostalo kompletno.
 - Session 2 (odigrano): saznala za matricu i fragment duše, označena kao plijen, vidjela oči patrona kroz prekinuti Identify (vidi [DM] niti gore). Nit se dalje vodi u [[session_03]] (tajna 7) i [[threads]].
+- Session 3 (odigrano): tokom provale pokušala Message (svi spavali, bez efekta); u [[loc_callestan|Callestanu]] s Mage Handom nesvjesno pokvarila [[grix|Grixovu]] prevaru s tri karte (njegov prvi fail u sedam godina), pa s Kragzom u skloništu izvukla informacije o [[Garra|Garri]]. Vidi [[log_session_03]].

@@ -47,3 +47,5 @@ Marcus sve to pripisuje vještini, navici i sentimentu. **Poricivost je poenta**
 - Backstory razrađen s igračem (juni 2026): sirotište Lower Dura, ratni scavenger s PTS-om, ulazak na Morgrave preko pawn shopa/Ricka, paket od [[aldous-venn|Venna]]. Player-facing tekst: [[marcus_handout]].
 - Otvoreno za Session 0 (igračev izbor): lični cilj/wishlist/mana, glas i držanje, mentor (zasad ga nema), uloga u agenciji. Vidi [[session_00_session_zero]].
 - Archeolog + opsesija Morgrave korupcijom = motor za istražiteljske slučajeve agencije.
+- Odigrano [[log_session_02|Session 2]]: upucao napadača koji se pod novom drogom pretvorio u blob s tentaclima; žrtvu odveo u [[house-jorasco|House Jorasco]].
+- Odigrano [[log_session_03|Session 3]]: prespavao provalu (nisu ga mogli probuditi); u [[loc_sky_bar|Sky Baru]] pokrao [[Riqi]]ja, pa platio 80 gp koktel: +1 na sve rolls do kraja tog dana (in-game; nestaje nakon spavanja).

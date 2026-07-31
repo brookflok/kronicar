@@ -27,6 +27,7 @@ Jednom sedmično Eranna daje toplu večeru i sobu za najbolju priču ili najsvje
 - Ovo je stalno mjesto gdje [[kragz|Kragz]] iz karijere prima dojave. **[[sicco-nenn|Sicco Nenn]]** sjedi uz prozor, nervozno vrti šolju i priča previše. **[[grix|Grix]]** ne voli glavni ulaz; dolazi iz pravca Cogsa i čeka u stražnjoj sobi koju Eranna gleda kroz prste.
 - Callestan je district u koji Watch praktično ne zalazi, zato je zgodan za čovjeka s namještenom optužbom. Ali [[boromar-vs-daask|Boromar]] oči vide svakog ko uđe, a Kragza pamte kao odbjeglog. Svaki dolazak je mala kocka: informacija za rizik da neko javi pogrešnima.
 - Sicco ovdje jednog dana može biti viđen s pogrešnim ljudima (njegova ugrađena nepouzdanost, vidi [[sicco-nenn]]). Eranna bi to Kragzu spomenula. Možda.
+- [[log_session_03|Session 3]]: [[Barba]] i [[Rogi]] rekli su partyju da se [[Garra]] znala nalaziti baš ovdje i da se tu pričaju razne stvari. Prirodno mjesto za raspitivanje o njenom odlasku i Daask poslovima.
 
 ## Veze
-Kanon: [[Callestan]]. Kampanja: [[loc_callestan]] (ostatak districta), [[sicco-nenn]], [[grix]], [[kragz]], [[boromar-vs-daask]], [[the-pilfered-wand]] (Siccove dojave o posrednicima Wanda).
+Kanon: [[Callestan]]. Kampanja: [[loc_callestan]] (ostatak districta), [[sicco-nenn]], [[grix]], [[kragz]], [[boromar-vs-daask]], [[the-pilfered-wand]] (Siccove dojave o posrednicima Wanda), [[Garra]] (znala se tu nalaziti, [[log_session_03]]).

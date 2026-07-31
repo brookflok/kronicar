@@ -122,7 +122,7 @@ Imena prvo iz kanona (Maazi, House Tharashk, Sharn Watch, The Pilfered Wand, Bor
 
 | Ime                            | Tip                        | Odnos (attitude)              | Odakle / veza                                                                     | Status                                                                |                                        |
 | ------------------------------ | -------------------------- | ----------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------- |
-| **Vikari** (The Pilfered Wand) | nemesis                    | Hostile                       | iza framinga i napada na voz; plan veći od krađe                                  | nerazriješen, nikad priveden ([[the-pilfered-wand]])                  |                                        |
+| **Vikari** (The Pilfered Wand) | nemesis                    | Hostile                       | iza framinga i napada na voz; plan veći od krađe                                  | priveden na vozu, opet na slobodi ([[the-pilfered-wand]], [[log_session_02]])                  |                                        |
 | **[[sevren-marr]]              | Captain Sevren Marr]]**    | rival / unutrašnji antagonist | Hostile (skriveno; javno ugledan)                                                 | visoki čin Watcha, iznutra štiti Wand, namjestio dokaze               | glavna meta čišćenja imena [DM]        |
 | **Maazi Jhorgunal'tall**       | rival / mogući pokrovitelj | Indifferent                   | klan Jhorgunal'tall, agent House Tharashk Finders' Guild                          | nudi članstvo pod kapom guilde ([[maazi-jhorgunaltall]])              |                                        |
 | **[[daven-holt]]               | Daven Holt]]**             | wildcard (rival ili saveznik) | naklonjen ali zategnuto                                                           | mentor iz 46. postaje, dao mu otkaz da ga spasi                       | dvosmislen dok ime nije čisto          |
@@ -133,3 +133,7 @@ Imena prvo iz kanona (Maazi, House Tharashk, Sharn Watch, The Pilfered Wand, Bor
 | **Boromar Clan** (frakcija)    | stara veza / prijetnja     | Unfriendly                    | prva banda poslije rata                                                           | gledaju ga kao odbjeglog; kontakt ili opasnost ([[boromar-vs-daask]]) |                                        |
 
 Attitude pišemo kao kod NPC kartica (Friendly / Indifferent / Unfriendly / Hostile). Kad veza oživi za stolom, svaki red može postati kartica u `npcs/`.
+
+## Stanje (odigrano)
+- [[log_session_02|Session 2]]: sivilo Sharna ga stiže, pije znatno više nego inače; ekipa ga tješila.
+- [[log_session_03|Session 3]]: usred borbe smirio [[Barba|Barbu]], razumio [[Rogi|Rogijev]] Thieves' Cant i dao im 5 gp "u znak poštovanja"; sa [[zerya-v3|Zeryom]] izvukao od [[grix|Grixa]] sve o [[Garra|Garri]].

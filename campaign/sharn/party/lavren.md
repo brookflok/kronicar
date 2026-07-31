@@ -24,6 +24,8 @@
 - "Drevno carstvo" riješeno; Kech Volaar veza obogaćena iz `world/` brifinga. Player-facing tekst: [[lavren_handout]].
 - Mentor formalizovan kao NPC [[doruuk-vaarn|Doruuk Vaarn]] (kovač, daashor bez Kech-a). Ulični kontakti i Ja'shaarat svijest dodani gore.
 - Otvoreno za Session 0 (igračev izbor): lični cilj/wishlist/mana, glas i držanje, uloga u agenciji. Vidi [[session_00_session_zero]].
+- Odigrano [[log_session_02|Session 2]]: ukraden joj pouch sa zlatom (džeparoši donjeg grada); Steel Defender šutnut u provaliju (do Session 3 opet u funkciji).
+- Odigrano [[log_session_03|Session 3]]: Nat 20 stealth potjera i Caustic Brew na provalnike; lisice umalo pokvarile pregovore s [[Barba|Barbom]] i [[Rogi|Rogijem]]. U planu: zamka s lažnim podom na stepenicama agencije.
 
 ### Igračeve sirove bilješke (izvor, sažeto gore)
 - Prvi posao kod kovača sa vlastitom kovačnicom (prerada metala i oružja); preko njega ušla u kontakt s Kechovima i zapalila se za sve. Prva osoba s kojom se povezala nakon sirotišta, prva prilika da se dokaže, iznenadilo je koliko je bilo fino.

@@ -8,4 +8,5 @@
 - Jedna tajna [DM]: Razor je htjela dati otkaz prije nego je pogubljena "za primjer". Coal nije meta zbog onog što zna o relikvijama, nego zato što bi progovorila. Stranac je [[zerya-v3|Zeryi]], ali njena priča (eksploatisani, potrošni warforged) pogađa Zeryu u živac.
 
 ## Stanje / zadnji kontakt
-- Uvedena u High Wallsu (Cog Carnival). Ako preživi zasjedu, napušta Sharn nakon iskaza. Ako pogine, *speak with dead* preko Blackened Booka.
+- Odigrano ([[log_oneshot_i_session_01|Session 1]]): preživjela zasjedu, dala iskaz (Razor, tajni Orien posao, oteti dječak), uputila party na kuću u kojoj su ona i Razor živjele, pa POBJEGLA iz grada.
+- Ta adresa je u [[log_session_02|Session 2]] dala mapu do lifta za [[loc_old_sharn_dig|iskopavanje]].

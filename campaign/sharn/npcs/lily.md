@@ -13,3 +13,4 @@
 
 ## Stanje / zadnji kontakt
 - Postavljena na startu kampanje kao Office Manager agencije, **na mjesto koje je u konceptu prvo držao [[quillian-sett|Quill]]** (Quill je zadržan za kasnije, vidi njegov fajl). Može popuniti i jednu **ulogu** (§4) ako je niko od likova ne uzme, najprirodnije Notary ili Liaison.
+- [[log_session_03|Session 3]] (prvi nastup za stolom): nakon noćne provale ujutro je sve pospremila i skuhala kafu; na miris kafe se probudio i ostatak družine, čak i Marcus.

@@ -11,3 +11,4 @@
 ## Stanje / zadnji kontakt
 - Postavljen kao nepouzdan kontakt, par sa [[sicco-nenn|Sicco]]m.
 - Stalno mjesto kontakta s Kragzom: [[loc_broken_anvil|The Broken Anvil]] u [[loc_callestan|Callestan]]u (Lower Dura). Grix izbjegava glavni ulaz, dolazi iz pravca Cogsa i čeka u stražnjoj sobi.
+- [[log_session_03|Session 3]]: Kragz i Zerya ga zatekli u Callestanu kako vrti igru s tri karte. Zeryin Mage Hand mu je nesvjesno vratio damu na sto, prvi failani con u sedam godina, pa je odglumio povredu noge jer nije imao para za nagradu. Kragz zna gdje mu je sklonište; tamo im je dao sve o [[Garra|Garri]] (odlazak u Droaam s djetetom, warforgedi bi trebali biti mrtvi). O novoj drogi zna malo. Ugled con artista mu je načet; može tražiti da mu se to nekako nadoknadi.

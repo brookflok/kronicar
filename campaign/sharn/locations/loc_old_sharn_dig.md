@@ -53,5 +53,9 @@ Onima koji su ostali s njim do kraja ostane tihi dar njegovog zanata: sljedećih
 ### Daashor odjek: Explore / Open a "Door" (istraživanje, zagonetka)
 Dublje od jame, zidanje prelazi u nešto starije i finije: dhakaanski kamen koji "pamti", urezi koji svijetle kad ih dodirne prava ruka. Ovo je rub [[loc_jashaarat|Ja'shaarata]] i daashor zanata koji nadmašuje Cannith. Za [[lavren|Lavren]] kamen i pismo reaguju kako ne reaguju ni za koga drugog. **Appeal:** istraživanje, zagonetka. **[DM]** Ovdje se nalazi miješani dhakaanski komad iz Daaskovog plijena; tanak konac ka Skybreaker "izvoru" (vidi `party/marcus-hale.md`) i ka [[case_the_reclaimers]] / [[case_the_kept_word]]. Pusti da samo zagrebe, ne da se otvori cijelo.
 
+## Stanje (odigrano)  [DM]
+- [[log_session_02|Session 2]]: party iz sobe Razor i Coal sastavio mapu do lifta.
+- [[log_session_03|Session 3]]: [[lavren|Lavren]] i [[marcus-hale|Marcus]] izvidjeli lift; odmah uz njega stoji [[loc_sky_bar|Sky Bar]] ([[Riqi]]), osmatračnica nad prilazom. Osoba s tribal tetovažom spustila se dole: ide ubiti warforgeda, čišćenje svjedoka je u naletu. Silazak partyja tek predstoji.
+
 ## Veze
-Slučajevi: [[session_01]] (spašavanje Cadena). Ljudi: [[caden-dorien|Caden d'Orien]], [[pfingston-nezzelech|Pfingston]], [[Garra|Garra]] (čije goblinе ostavlja da čuvaju). Frontovi: [[boromar-vs-daask|Daask]]. Veže: [[loc_jashaarat]], [[loc_depths]], dhakaanske niti [[_braid_dhakaan]].
+Slučajevi: [[session_01]] (spašavanje Cadena). Ljudi: [[caden-dorien|Caden d'Orien]], [[pfingston-nezzelech|Pfingston]], [[Garra|Garra]] (čije goblinе ostavlja da čuvaju). Frontovi: [[boromar-vs-daask|Daask]]. Veže: [[loc_jashaarat]], [[loc_depths]], dhakaanske niti [[_braid_dhakaan]]. Prilaz: [[loc_sky_bar|Sky Bar]] kod lifta.
