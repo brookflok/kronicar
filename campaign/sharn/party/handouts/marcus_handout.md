@@ -5,21 +5,21 @@
 ## Ko si
 
 Ti si **Marcus Hale**, čovjek iz **Brelanda**. Odrastao si u istom sirotištu u **Lower Duri** kao i ostatak ekipe, ljudi koji su ti danas jedina prava porodica. Sad si arheolog i istraživač ruševina, čovjek koji vjeruje da se prave istine o svijetu ne nalaze u učionicama nego pod zemljom, u prašini, tamo gdje ih je neko namjerno zakopao.
-![[Pasted image 20260620154510.png]]
+![[marcus-handout-01.png]]
 
 ## Rat
 
 Punoljetstvom su te poslali u **Last War**, na stranu Brelanda. Bio si vojnik i izviđač, čovjek koji ide pred svima ostalima i obilazi terene na koje drugi tek treba da stignu. Tako si upao u ratne ekspedicije, po starim ruševinama, srušenim tunelima i mjestima koja na kartama nisu ni postojala.
 
 Rat te napravio onim što jesi, ali ti je i nešto uzeo. Vraćao si se s terena tiši nego što si otišao. Noći su ti bile teške, a mir ti je sjedao u kosti kao nelagoda, a ne kao olakšanje. Skupljanje starih stvari, kopanje, traganje za nečim izgubljenim, to je bila jedina stvar koja ti je vraćala osjećaj da imaš svrhu. Tako se rodio i arheolog u tebi, kao način da preživiš ono što si vidio.
-![[Pasted image 20260620154621.png]]
+![[marcus-handout-02.png]]
 
 ## Skybreaker
 
 U jednoj od tih ratnih ekspedicija, u **Dragon's Cave** u Brelandu, naišao si na čovjeka koji nije izgledao kao da je ubijen. Izgledao je iscrpljeno, kao da je jednostavno presahnuo i umro od umora. Kraj njega je ležala puška. Uzeo si je. To je bio prvi artefakt koji si u životu pronašao i od tog trenutka u tebi se probudila glad za takvim stvarima, za predmetima koji nose neku staru priču.
 
 Pušku si nazvao **Skybreaker**, po jednoj kafanskoj priči, fazonu da "može raznijeti nebo". Ime ti je sjelo jer ti se tako dobro osjeća u rukama. Otad je nikad ne ispuštaš daleko od sebe. Bila ti je predobar drug kroz rat da bi je ikad ostavio. Imaš neki sentiment prema njoj koji ni sam sebi ne umiješ objasniti, ali ga ni ne preispituješ. Ona je prosto tvoja, kao da je oduvijek bila dio tebe.
-![[Pasted image 20260620154755.png]]
+![[marcus-handout-03.png]]
 
 ## Kako si upao na Morgrave
 
@@ -30,7 +30,7 @@ Ali sjetio si se da sa sobom nosiš nekoliko sitnica koje si tokom rata pokupio 
 Vlasnik, **Rick**, uzeo ti je predmet u ruke i na tren se vidno trgnuo. Odmah je pozvao nekog eksperta i zamolio te da sjedneš i sačekaš dok ne provjere o čemu se radi. Bilo ti je malo čudno, ali nisi previše kopao po tome. Dok si čekao u lobiju, nekih pola sata, primijetio si da je cijeli univerzitet odjednom nekako užurban, nervozniji nego kad si ranije dolazio da se raspitaš za upis.
 
 Kad te Rick pozvao nazad, ponuda je bila bolja nego što si se usudio sanjati. Upisat će te na fakultet i davati ti mjesečni iznos kroz cijelo školovanje. Sve to za jedan jedini predmet. Zvučalo je fenomenalno, gotovo presmiješno dobro. Sjećaš se da ti je tada kroz glavu prošla samo jedna misao, olakšanje da Skybreaker barem ostaje uz tebe.
-![[Pasted image 20260620154835.png]]
+![[marcus-handout-04.png]]
 
 ## Godine na univerzitetu
 

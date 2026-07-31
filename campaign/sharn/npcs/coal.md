@@ -1,5 +1,7 @@
 # Coal
 
+![[coal.png]]
+
 - Rasa / klasa: warforged (soldier baza). Bez desne ruke.
 - Veza sa party-jem: svjedokinja koju agencija treba naći i saslušati ([[session_01]]). Prvi pravi izvor o Daaskovom planu u Old Sharnu.
 - Character archetype (za roleplay): tiha, blaga, oprezna do straha. Preživjela rat i gubitak, sad preživljava grad koji je ne želi. Lojalna sjećanju na prijateljicu.

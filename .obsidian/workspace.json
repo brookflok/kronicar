@@ -11,14 +11,12 @@
             "id": "fd4965204016bdb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260620154835.png"
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260620154835"
             }
           },
           {
@@ -226,8 +224,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fd4965204016bdb4",
+  "active": "9e231b35e561a88c",
   "lastOpenFiles": [
+    "output/sharn/sessions/cog-carnival-musician.png",
+    "output/sharn/sessions/session-01-lift-panel.png",
+    "campaign/sharn/party/handouts/marcus-handout-04.png",
+    "campaign/sharn/party/handouts/marcus-handout-03.png",
+    "campaign/sharn/party/handouts/marcus-handout-02.png",
+    "campaign/sharn/party/handouts/marcus-handout-01.png",
+    "campaign/sharn/npcs/coal.png",
+    "campaign/sharn/npcs/caden-dorien.png",
+    "campaign/sharn/npcs/vishtai.png",
+    "campaign/sharn/npcs/germaine-vilroy-token.png",
+    "campaign/sharn/npcs/germaine-vilroy.png",
+    "Pravila za Flashback Points (FP).pdf",
+    "Cog Carnival.md",
+    "CLAUDE.md",
     "campaign/sharn/locations/loc_sky_bar.md",
     "campaign/sharn/npcs/caden-dorien.md",
     "campaign/sharn/npcs/vilda.md",
@@ -252,22 +264,8 @@
     "campaign/sharn/npcs/Rogi.md",
     "campaign/sharn/npcs/Random NPC Names.md",
     "campaign/sharn/log/log_oneshot_i_session_01.md",
-    "output/sharn/session_0_pitanja_veze.md",
-    "Pasted image 20260716143758.png",
-    "Pasted image 20260716143804.png",
-    "Pasted image 20260716143814.png",
-    "Pasted image 20260716150313.png",
-    "caden-dorien.md",
-    "CLAUDE.md",
     "marcus_handout.pdf",
-    "Germaine-Vilroy-Token.png",
-    "Pravila za Flashback Points (FP).pdf",
     "with-image.pdf",
-    "Pasted image 20260620154510.png",
-    "Pasted image 20260626192137.png",
-    "Pasted image 20260627112453.png",
-    "Pasted image 20260627125546.png",
-    "Pasted image 20260627125548.png",
     "img/book/XDMG",
     "img/book",
     "img",

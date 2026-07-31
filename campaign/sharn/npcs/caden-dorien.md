@@ -1,5 +1,7 @@
 # Caden d'Orien
 
+![[caden-dorien.png]]
+
 - Iz Sharn mastera? Ne, iz modula *Forgotten Relics* (EFR).
 - Rasa / klasa: human, dječak; sin [[alden-dorien|Aldena d'Oriena]] (House Orien).
 - Veza sa party-jem: oteto dijete u srcu Garra slučaja. Igrači od [[coal|Coal]] znaju da je Aldenov sin zatočen "u jednoj od biblioteka u Cogsu" ([[log_oneshot_i_session_01|Session 1]]), a od [[grix|Grixa]] da [[Garra]] vodi kidnapovano dijete u Droaam ([[log_session_03|Session 3]]).

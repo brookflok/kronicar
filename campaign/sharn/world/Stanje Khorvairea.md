@@ -16,66 +16,51 @@ Sve osim Thranea vode ogranci dinastije ir'Wynarn, krv starog Galifara.
 
 **Aundair.** Kraljica Aurala ir'Wynarn. Feudalna monarhija u kojoj plemstvo i magijska elita idu ruku pod ruku; Arcane Congress i univerzitet u Arcanixu čine Aundair magijski najpismenijom državom kontinenta, pa Aurala računa da joj bojni čarobnjaci vrijede koliko drugima čitave legije. Javno podržava mir. Niko joj baš ne vjeruje, jer u svakom drugom govoru podsjeti da je Aundair ratom izgubio zapad, današnji Eldeen Reaches, i grad Thaliost koji od rata drži Thrane. Kad bi se kladilo ko prvi ponovo poteže, ulog bi išao na Aundair.
 
-![[Pasted image 20260611104802.png]]
 
 
 **Breland.** Kralj Boranel ir'Wynarn, ali Breland je jedina od Five Nations gdje kruna dijeli vlast s parlamentom, pa najviše liči na ustavnu monarhiju. Najmnogoljudnija i industrijski najjača nacija, s kulturom ličnih sloboda i trgovine. Sharn, City of Towers, najveći je grad kontinenta. Breland je iz rata izašao u najboljoj poziciji i nema teritorijalnih apetita; njegova velika tema je unutrašnja. Boranel stari, nijedno od njegove djece nije ni blizu njegovog formata, i u parlamentu sve glasnije sjedi struja koja bi poslije njegove smrti ukinula monarhiju. Brelandska tajna služba, King's Citadel sa svojim Dark Lanterns, važi za najbolju na kontinentu.
 
-![[Pasted image 20260611104818.png]]
 
 **Karrnath.** Kralj Kaius III ir'Wynarn. Stroga vojnička monarhija sa starom ratničkom aristokratijom i obaveznom službom; ratno pravo je tek nedavno popušteno. Karrnath je tokom rata, pritisnut glađu i kugom, uveo nekromantiju u vojsku i slao legije nemrtvih na front. Te legije su sada povučene u utvrde poput Fort Bones i Fort Zombie, ali ih niko nije zaboravio. Ironija je u tome što je upravo Kaius danas najglasniji zagovornik mira na kontinentu i glavni arhitekta Treaty of Thronehold, na bijes dijela vlastite aristokratije i potisnutog kulta Blood of Vol koji je nekad bio državna vjera. Valenar ga redovno bocka upadima preko južne granice ne bi li isprovocirao rat. Kaius odbija zagristi.
 
-![[Pasted image 20260611104906.png]]
 
 **Thrane.** Teokratija Church of the Silver Flame. Krv ir'Wynarna formalno postoji, kraljica Diani nosi titulu, ali narod je još tokom rata sam izglasao predaju vlasti crkvi i od tada kruna ništa ne odlučuje. Duhovni vrh je Keeper of the Flame Jaela Daran, djevojčica od jedanaest godina, dok svakodnevnu upravu vodi Diet of Cardinals, koji u praksi drži više stvarne moći od djeteta-proroka. Silver Flame je sila posvećena zaštiti svijeta od natprirodnog zla i većina vjernika to iskreno živi, što ne znači da institucija nema svoje fanatike, karijeriste i stare mrlje poput progona likantropa prije sto godina. Thrane drži okupirani aundairski Thaliost, vjerovatno najzapaljiviju tačku kontinenta, a s Karrnathom je u trajno lošim odnosima jer nekromantiju smatra gnusobom.
 
-![[Pasted image 20260611105007.png]]
 
 **Cyre.** Nema je više. Preživjeli su raseljeni, a najveća zajednica je New Cyre u Brelandu, gdje princ Oargev ir'Wynarn, posljednji nasljednik cyranske krune, vlada izbjegličkim gradom i uporno lobira da se njegovom narodu da nova domovina. U sam Mournland ulaze plaćenici, pljačkaši olupina i ludaci. Iznutra dopiru glasine o Lord of Blades, warforged proroku koji navodno okuplja vojsku.
 
-![[Pasted image 20260611105513.png]]
 
 ### Ostale nacije priznate Treaty of Thronehold
 
 **Zilargo.** Gnome država. Svaki od tri velika grada ima demokratski izabrano gradsko vijeće i svoje mjesto u Triumvirateu koji vodi naciju, pa Zilargo na papiru izgleda kao najuređenija demokratija kontinenta. Izvana je i najugodnije društvo: biblioteke, novine, sloboda govora, ljubazni domaćini. Ispod toga radi the Trust, tajna policija koja odgovara Triumvirateu i probleme rješava prije nego što nastanu, ne samo kod kuće nego i po cijelom Khorvaireu. Zločina gotovo da nema. Suđenja također. Ljudi naprosto promijene mišljenje, ili ih više nema. Strance ta ležerna prihvaćenost preventivnog ubistva užasava, a sami Zil iskreno vjeruju Trustu i smatraju da sistem radi. Zilargo je neutralan, profitabilan i blizak saveznik Brelanda.
 
-![[Pasted image 20260611105059.png]]
 
 **Darguun.** Goblinoidna nacija na zemlji koja je do rata bila jug Cyre. Plemena Ghaal'dar iz Seawall Mountains stoljećima su ratovala međusobno, dok ih potražnja za plaćenicima u Last Waru nije izvukla iz planina; 969 YK hobgoblin Lhesh Haruuc Shaarat'kor shvatio je da su goblini postali dominantna vojna sila regije, ujedinio plemena i uzeo teritoriju koju je trebao braniti. Breland se brzo nagodio s njim radi granice, a Thronehold ga je priznao da bi kupio mir. Haruuc vlada iz crvene kule Khaar Mbar'ost u Rhukaan Draalu, snagom i karizmom, i njegov životni projekat je da Darguun nadživi njega samog. Stari, nasljednika nema, a svaki klanovski lord u svom gradu drži apsolutnu vlast i samo mu formalno polaže vjernost. Ropstvo je Haruuc ukinuo u Rhukaan Draalu, ali ga pojedini klanovi po unutrašnjosti i dalje praktikuju, što Thronehold izričito brani. Na jugu, u Seawall planinama, žive i Marguul, bugbear klanovi koji su davno zbacili vlast Ghaal'dara, obožavaju the Mockery i žive od pljačke; s Haruucom drže labavo primirje, a dio njih ne priznaje nikoga. Tradicionalna vjera Ghaal'dara bio je oblik Dark Six, ali je House Deneith s plaćeničkim poslom donio i Sovereign Host, pa danas dio goblina poštuje Dol Dorna, Dol Arrah i Balinora. 
 
-![[Pasted image 20260611104842.png]]
 
 **Droaam.** Zapadna nacija čudovišta: gnolls, ogres, medusas, harpies, minotaurs, trolls i ko sve ne. Vladaju Daughters of Sora Kell, tri drevne hag sestre. Sora Katra je glas i lukavstvo, Sora Maenya sila i strah, a Sora Teraza proročica koju malo ko vidi. Treaty of Thronehold ih je odbio, pa je zemlja pravno i dalje dio Brelanda, mada novije karte uredno crtaju Droaam kao državu. Iznutra je struktura jednostavna i brutalna: teritorija je podijeljena na lheshate kojima upravljaju warlordi odgovorni direktno Daughters, a ispod njih lokalne zajednice vode chibovi. Valute nema; standardna plata za dnevni rad je hrana i krov, trguje se barterom, komadićima metala i zubima zvijeri na koje su Daughters raspisale ucjenu. Glavni izvoz, posredstvom House Tharashk, čine byeshk ruda, Eberron dragonshardovi i plaćenici, među kojima su najcjenjeniji gnolls neutralnog Znir Pacta. Tu je i ono što se ne piše u ugovorima: otrovi i droge poput dragon's blooda. Posebnost na zapadu je Venomous Demesne, izolovan tiefling grad čije magecrafted rukotvorine nadmašuju sve ostalo u Droaamu. Vođe Five Nations uglavnom se tješe da će se čudovišta svakog časa poklati međusobno. Jedanaest godina kasnije, Droaam je jači nego ikad, a glavno pitanje ostaje bez odgovora: šta Daughters zapravo hoće.
 
-![[Pasted image 20260611105651.png]]
 
 **Valenar.** Ratnička elf nacija na jugoistoku, na zemlji koja je do rata bila cyranska. High King Shaeras Vadallia i četrdesetak warbandova. Elfi Valenara žive da bi nadmašili djela svojih predaka, što u praksi znači da traže rat. Na papiru poštuju Thronehold. Na terenu upadaju u Karrnath, Talenta Plains i Q'barru i nadaju se da će neko konačno uzvratiti kako treba.
 
-![[Pasted image 20260611105748.png]]
 
 **Q'barra.** Frontier u istočnoj džungli, koji doseljenici zovu i New Galifar. Kralj Sebastes ir'Kesslan iz Newthronea vlada rojalističkim izbjeglicama, doseljenicima i kopačima dragonsharda, koliko se to uopšte da zvati vladanjem. Ono što su doseljenici prekasno shvatili: džungla nije bila prazna. Tu su lizardfolk Cold Sun Federationa, dragonborn drevnog grada Ka'rhashan i neprijateljski Poison Dusk lizardfolk. Sebastes je s Cold Sun Federationom sklopio ugovor, ali ga prospektori u potrazi za shardovima redovno krše, pa sukobi sa "scales", kako doseljenici zovu domoroce, zadnjih godina samo eskaliraju.
 
-![[Pasted image 20260611105818.png]]
 
 **Mror Holds.** Dwarf konfederacija u Ironroot planinama: dvanaest holdova, svaki pod vladajućim klanom, a iznad svih Iron Council sastavljen od glava klanova. Nezavisnost od Karrnatha proglasili su tokom rata, dok je Karrnath bio prezauzet glađu i frontovima da bi reagovao. Bogati su rudom i bankarstvom, jer tu sjedi House Kundarak. Ono što ostatak kontinenta slabo razumije: dok su Five Nations vodile Last War, Mror su vodili svoj rat. Otkopali su Realm Below, drevno dwarf kraljevstvo u dubinama, i u njemu zatekli daelkyr užase koji su to kraljevstvo davno istrijebili. Taj sukob zovu Dol Udar, War Below, i trenutno je u pat poziciji: dubine su izvor basnoslovnog blaga i artefakata, ali i dolgrima i gore zaraze. Među klanovima već tinjaju svađe oko toga smije li se koristiti oružje koje nije kovala dwarf ruka nego daelkyr.
 
-![[Pasted image 20260611110650.png]]
 
 **Lhazaar Principalities.** Sjeveroistočna obala, labava konfederacija pomorskih kneževina, pola trgovaca i pola gusara, gdje se vlast zarađuje, ne nasljeđuje. Ryger ir'Wynarn od Regalporta ima najjaču flotu, izborio je kneževinama priznanje na Throneholdu i potom sam sebi dodijelio titulu High Prince. Otad gura ideju čvršće pomorske nacije pod svojim vodstvom, a ostali prinčevi je uredno odbijaju; najglasniji rival mu je princ Kolberkon od Port Vergea. Po pristaništima se šapuće da obojica u svojim igrama sklapaju opasne saveze, od kuća do zmajeva i dalekih sila preko mora.
 
-![[Pasted image 20260611105838.png]]
 
 **Talenta Plains.** Ravnice nomadskih halfling plemena koja jašu dinosauruse. Vlast je plemenska, a najuticajniji glas pripada Lathonu Halpumu, koji je tokom rata okupio plemena u odbranu zemlje i izborio im priznanje na Throneholdu. Halpum sanja o savezu plemena kao naciji nacija, dok šamanka Holy Uldra propovijeda suprotno: istjerati sve strance iz ravnica i vratiti se starim putevima. Uz to su pritisnuti valenarskim upadima i karrnathskim utvrdama po rubu.
 
-![[Pasted image 20260611104954.png]]
 
 **Eldeen Reaches.** Zapadne šume koje su se tokom rata otcijepile od Aundaira. Sela i druidske sekte slijede duhovno vodstvo Great Druida Oaliana, awakened greatpine starog hiljadama godina, iz Greenhearta, dok red na terenu i sporove među selima drže Wardens of the Wood. Žele samo da ih svi puste na miru. Aundair ih i dalje vodi kao svoju otetu teritoriju.
 
-![[Pasted image 20260611105914.png]]
 
 **Shadow Marches i Demon Wastes.** Divlje teritorije bez priznanja i bez prijestolnica. U močvarama Shadow Marches žive orc i human klanovi s drevnom tradicijom Gatekeepera; Demon Wastes na sjeverozapadu su spaljena zemlja koju barbarska plemena čuvaju da se ono unutra ne izlije van.
 
-![[Pasted image 20260611105958.png]]
 
 ##  Dragonmarks u društvu
 
@@ -83,7 +68,6 @@ Dragonmark je živi magični znak na koži koji nosiocu daje urođene moći veza
 
 Sad direktno na pitanje kako to izgleda u životu. Mark se ne javlja rođenjem nego najčešće u adolescenciji, često u trenutku stresa, i to samo kod potomaka markiranih linija, mada ni kod njih ne kod svih. Većina članova kuća nikad ne dobije mark. I ne, ne dolazi država po dijete, iz prostog razloga što kuće nisu dio nijedne države. To su transnacionalne korporacije i dinastije starije od današnjih kraljevstava, namjerno neutralne, i kraljevi nemaju nikakvo pravo na markirane. Ako se mark javi kod nekoga unutar kuće, slavi se: mark se formalno potvrdi testom, status raste, ime dobije prefiks d', kao kod Merrixa d'Cannitha, i otvore se pozicije u poslu kuće. Ako se javi kod nekog izvan kuće, takozvanog foundlinga, kuća će ga prije ili kasnije naći i ponuditi mu mjesto, jer je markirana krv doslovno kapital. Niko ga ne otima, ali pritisak je stvaran. Pristane li, čeka ga bogatstvo. Odbije li, kuća ga drži na oku i pobrinuće se da svoj mark nikad ne unovči protiv njih.
 
-![[Pasted image 20260611110028.png]]
 
 
 Mračna strana su aberrant markovi, oni koji se jave pogrešno, recimo miješanjem dvije markirane linije, s nestabilnim i često razornim moćima. Prije skoro 1500 godina kuće su vodile War of the Mark i istrijebile aberrant linije do korijena. Današnji nosioci se kriju. U Sharnu ih okuplja House Tarkanan, o kojem više u sekciji o kriminalu. Broj aberrant rođenja u zadnje vrijeme tiho raste i kuće to znaju.
@@ -116,7 +100,6 @@ Dvije institucije drže taj sistem u nekakvim granicama. Korth Edicts su drevni 
 
 **[[house-tarkanan|House Tarkanan]]**, Sharn. Udruženje nosilaca aberrant markova, pola sindikat ubica i provalnika, pola uzajamna zaštita ljudi koje društvo lovi. Ime su prkosno uzeli po vođi aberranta iz War of the Mark. Vodi ih Thora Tavin. Ne žele kraj svijeta. Žele da prestanu biti lovina, a do tada naplaćuju svoje usluge skupo.
 
-![[Pasted image 20260611110147.png]]
 
 **Order of the Emerald Claw**, korijeni u Karrnathu, ruke svuda. Najbliže onome što bi novine nazvale teroristima: bivši elitni viteški red, javno raspušten i zabranjen, sada fanatična mreža koja izvodi pljačke grobnica, atentate i napade širom kontinenta. Javnost ih čita kao karrnathske ultranacionaliste. Prava gospodarica im je Lady Illmarrow, drevna lich Erandis Vol, posljednja iz istrijebljene linije Mark of Death. Nju novac ne zanima. Hoće da povrati moć svog uništenog marka i uzdigne se u nešto nalik božanstvu, pa makar kontinent platio cijenu. Usput zloupotrebljava vjernike kulta Blood of Vol, od kojih većina nema pojma čemu vrh organizacije zapravo služi.
 
@@ -124,7 +107,6 @@ Dvije institucije drže taj sistem u nekakvim granicama. Korth Edicts su drevni 
 
 **[[the-pilfered-wand|The Pilfered Wand]]**, Sharn. Grupa arkanih lopova specijalizovanih za krađu magičnih predmeta, koju vodi Vikari, zakya rakshasa. Zakye su ratnički soj rakshasa, majstori bliske borbe, i kao i svi rakshasi mogu uzeti bilo koji humanoidni oblik i čitati misli. 
 
-![[Pasted image 20260611110212.png]]
 
 **Aurum**, kontinentalno i naizgled legalno. Tajni klub najbogatijih, organizovan u konkordije po metalima. Javno kolekcionarsko i dobrotvorno društvo. Stvarno kartel koji kupuje političare i vjeruje da bi novac trebao vladati tamo gdje sad vladaju krune i kuće. Unutrašnji krug, Shadow Cabinet, ne preza ni od čega.
 
@@ -132,7 +114,6 @@ Dvije institucije drže taj sistem u nekakvim granicama. Korth Edicts su drevni 
 
 Na rubu liste, jer nisu kriminalci u klasičnom smislu: Lord of Blades u Mournlandu, warforged mesija koji propovijeda da je Day of Mourning bio rođenje warforged nacije; the Trust u Zilargu, državni zločin koji se tako ne zove; i obavještajne službe poput Dark Lanterns i Royal Eyes, koje rade stvari za koje bi obični ljudi bili obješeni.
 
-![[Pasted image 20260611110121.png]]
 
 ## Goblini: Darguun, Ghaal'dar i Dhakaani kechovi
 
@@ -163,20 +144,17 @@ Dhakaani nisu zli u klasičnom smislu i nemaju potrebe za sitnom okrutnošću; i
 
 Darguuls koji s njima imaju posla obično ih opisuju kao arogantne i pokroviteljske, a po Haruucovom dvoru već kruže šapati da ti čudni planinski klanovi kuju nešto protiv Lhesha. Nelagoda, dakle, ide u oba smjera.
 
-![[Pasted image 20260611110317.png]]
 
 ### Pojedinačni kechovi
 
 **Kech Volaar, Keepers of the Word.** Vodi ih Tuura Dhakaan, duur'kala matrijarh. Čuvari znanja, historije i relikvija; najjače duur'kale od svih klanova, a uz to jedini ozbiljno proučavaju arkanu modernog svijeta, jer za razliku od ostalih shvataju koliko magija Five Nations i kuća zapravo vrijedi. Najotvoreniji su prema strancima i jedini ozbiljno razmatraju može li se Uul Dhakaan jednog dana proširiti i na ne-goblinoide. 
 Tuura juri carsku krunu kroz legitimitet: skuplja izgubljene artefakte carstva, prije svega Ur'taash, First Crown, zatim Guulen, Rod of Kings, i Ghaal'duur, Jhazaalin ratni rog, i šalje duur'kale među Ghaal'dar da ih podsjećaju na slavnu prošlost. 
 
-![[Pasted image 20260611110333.png]]
 
 **Kech Shaarat, Keepers of the Sword.** Najbrojniji i najratoborniji klan, pod warlordom Ruusom Dhakaanom koji nosi Skai Shaarat, Veliko sječivo, mač predavan od warlorda warlordu još od doba šest kraljeva. Njihov trezor naslanja se na demiplane u Khyberu zvan Ironlands, što im je kroz izolaciju davalo prostor, resurse i byeshk rudu kakvu drugi klanovi nisu imali, i držalo ih u trajnoj ratnoj pripravnosti. Već su progutali manji Kech Nozhii, koji je čuvao carsku riznicu, i sada pritišću Kech Ruuska da prizna Ruusa za cara. Ruus je poslao predstavnike u Rhukaan Draal i obećao Haruucu podršku, ali to je varka kojom kupuje vrijeme i mjeri budućeg protivnika; s chaat'oorima odbija svaki posao, uključujući uporne ponude kuće Deneith. Druge dar neće klati bez potrebe, ali za moderne gobline ozbiljno razmatra je li ih jednostavnije istrijebiti nego prevaspitati, a Khorvaire u njegovoj viziji pripada obnovljenom carstvu.
 
 **Kech Ghaalrac, Clan of Heroes.** Najčudniji i potencijalno najstrašniji. Njihov osnivač Khaas Dhakaan nije htio da se krije: poveo je najveće heroje epohe, uključujući i Gatekeeper orke, u sam Dyrrnov demiplane da iskorijene Kapaa'volu na izvoru. Smatrani su izgubljenima, ali vrijeme u Dyrrnovom carstvu teče drugačije; po njihovom računanju prošlo je tek tri stoljeća. Vratili su se izmijenjeni: stoljećima rata u zemlji ludila stopili su dhakaanske i Gatekeeper tehnike sa daelkyr simbiotima, uzgojili šampione s neprirodnim moćima i naučili vezati aberacije u svoju službu. Današnji vođa, koji također nosi ime Khaas, drži Ur'taash, First Crown, i tvrdi da ju je istrgao Dyrrnu zadavši mu smrtni udarac, te da su upravo Ghaalrac slomili Kapaa'volu. Nisu dio Uul Dhakaana kakav ostali poznaju, nego nose vlastitu verziju sna, i vjeruju da su svi ostali skrenuli s puta. Veliko pitanje visi nad njima: jesu li zaista heroji, ili ih je Dyrrn odavno iskvario a da to ni sami ne znaju.
 
-![[Pasted image 20260611110603.png]]
 
 **Kech Nasaar, Keepers of Night.** Klan kojim i danas vladaju Iraala, prva dar vampirica, nastala davnim dodirom s aerenskom linijom Vol, i njen ljubavnik warlord Muurat. U carstvu su služili kao unutrašnja sigurnost i majstori psihološkog ratovanja, i upravo su oni prvi prepoznali Kapaa'volu i pokrenuli povlačenje u trezore. U izolaciji su nastavili razvijati nekromantiju i nekonvencionalne oblike rata. Drevni carski edikt kaže da mrtvac ne može nositi krunu, jer su mrtvi odsječeni od Uul Dhakaana; pitanje je hoće li se Iraala i Muurat toga držati kao najvjerniji sluge carstva, ili su u tami postali nešto drugo.
 
@@ -190,7 +168,6 @@ Tuura juri carsku krunu kroz legitimitet: skuplja izgubljene artefakte carstva, 
 
 **Khesh'dar, Silent Folk.** Nisu klasičan kech nego sjena pored svih njih: goblini špijuni, izviđači i ubice koji su i u doba carstva stajali izvan kasti. Dvije tradicije: Taarka'khesh, tihi vukovi, izviđači na worg konjici, i Shaarat'khesh, tihe oštrice, gradski špijuni i asasini. Ne biraju stranu među klanovima, služe i Shaaratu i Volaaru za poštenu cijenu, ali ne primaju poslove koji prijete samom carstvu. Stoljeće već pletu mreže po Five Nations, jer goblinska sirotinja u svakom velikom gradu znači da niko ne primijeti još jednog goblina. Nikad se ne zna kad se gradski goblin pokaže kao nešto sasvim drugo.
 
-![[Pasted image 20260611110537.png]]
 
 ### Emperor Yet to Come i stanje 998 YK
 
@@ -204,7 +181,6 @@ Okvir je Cannithov monopol. House Cannith kroz Fabricators Guild za tešku proiz
 
 U tom monopolu postoji pukotina. Cannith je na Day of Mourning izgubio i sjedište i patrijarha, pa je danas rascijepljen na tri ogranka koja se otimaju o prevlast: Cannith South pod Merrixom d'Cannithom u Sharnu, Cannith West pod Jorlannom d'Cannith u Fairhavenu i Cannith East pod Zorlanom d'Cannithom u Karrnathu. West prednjači u alhemiji, South u opštoj industriji, a East u artiljeriji, uz diskretno petljanje po nekromantiji. Za nezavisne majstore podjela je zlatno doba. Tri ogranka se podrivaju, kradu jedni drugima ljude i ponekad tiho finansiraju nezavisne radionice kao batinu protiv rođaka.
 
-![[Pasted image 20260611110921.png]]
 
 **Zilargo, the Zil Binders.** Elemental binding industrija nije jedna organizacija nego šest velikih binder porodica, i tradicija se smatra nacionalnim resursom: ne-gnoma praktično ne primaju na obuku. Oni grade airshipove i elemental galije koje House Lyrandar potom operiše, jer samo Mark of Storm glatko upravlja vezanim elementalom. Partnerstvo je staro, ugovorima utvrđeno i trn u oku House Orienu, čiji lightning rail gubi prestižne putnike na račun zračnih linija. The Trust pazi da gnomske tajne ostanu gnomske.
 
