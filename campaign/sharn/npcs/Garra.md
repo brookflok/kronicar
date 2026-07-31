@@ -1,4 +1,4 @@
-![[garra.png]]
+![Garra](garra.png)
 
 - Rasa / klasa: half-ogre (Int/Wis 14). Daask lieutenant.
 - Veza sa party-jem: glavni antagonist Session 1 ([[session_01]]). Otela [[caden-dorien|Cadena]], ucijenila [[alden-dorien|Aldena]], vodi iskop u Old Sharnu, lovi [[coal|Coal]] preko hit squada.

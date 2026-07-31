@@ -1,6 +1,6 @@
 # Caden d'Orien
 
-![[caden-dorien.png]]
+![Caden d'Orien](caden-dorien.png)
 
 - Iz Sharn mastera? Ne, iz modula *Forgotten Relics* (EFR).
 - Rasa / klasa: human, dječak; sin [[alden-dorien|Aldena d'Oriena]] (House Orien).

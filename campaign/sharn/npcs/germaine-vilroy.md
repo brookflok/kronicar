@@ -1,6 +1,6 @@
 # Germaine Vilroy
-![[germaine-vilroy.png]]
-![[germaine-vilroy-token.png|200]]
+![Germaine Vilroy](germaine-vilroy.png)
+![Germaine Vilroy token](germaine-vilroy-token.png)
 
 - Iz Sharn mastera? Ne, iz modula *Forgotten Relics* (EFR). Smještena u Middle Dura Watch radi blizine agencije.
 - Rasa / klasa: human (Breland), veteran. Narednica Sharn Watcha.

@@ -1,6 +1,6 @@
 # Coal
 
-![[coal.png]]
+![Coal](coal.png)
 
 - Rasa / klasa: warforged (soldier baza). Bez desne ruke.
 - Veza sa party-jem: svjedokinja koju agencija treba naći i saslušati ([[session_01]]). Prvi pravi izvor o Daaskovom planu u Old Sharnu.

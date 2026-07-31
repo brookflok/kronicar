@@ -1,5 +1,5 @@
 # Vishtai
-![[vishtai.png]]
+![Vishtai](vishtai.png)
 
 - Rasa / klasa: kalashtar. Aldenov povjerenik i bodyguard.
 - Veza sa party-jem: daje pravu kuku ([[session_01]]): telepatski upućuje party na lift ka Old Sharnu i spašavanje [[caden-dorien|Cadena]]. Svakom daje *feather token* sa sigilom House Orien.

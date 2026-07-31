@@ -51,6 +51,11 @@ have) its own note, I link it.
   `[[x]]`. Plain file paths are not clickable in Obsidian; wikilinks are.
 - A `[[link]]` whose note does not exist yet is fine; it is a healthy placeholder that marks
   something worth writing later.
+- IMAGES are the exception: never `![[image.png]]` (GitHub cannot render it). Always standard
+  markdown with a relative path from the note: `![Garra](garra.png)`,
+  `![Coal](../../../campaign/sharn/npcs/coal.png)`. Images live in the same folder as the
+  note that owns them (NPC portraits in `npcs/`, session art next to the session file), named
+  meaningfully in kebab-case. This renders identically in Obsidian, on GitHub, and on the wiki.
 - Player-facing handout/prop bodies stay clean and in-world (no links in the prop text). I
   put navigation links in a small `*Vezano:*` footer instead, so immersion is preserved.
 - This is for navigation only; it never changes the OUTPUT LANGUAGE or writing-style rules.

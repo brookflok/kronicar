@@ -66,11 +66,11 @@ Vlasnica **[[smelt|Smelt]]** (warforged) napravila je ovo utočište za svoje; a
 oal (crna, jednoruka, sjedi sama uz šank, plava od tuge usred sveg veselja), ili party sjedne uz bend, otpjeva, odsvira ili zavrti salu na podu i tako zaradi povjerenje prostorije.
 > **Spotlight [[zerya-v3|Zerya]]:** warforged među warforgedima; najlakši ulaz u sobu je preko nje.
 
-![[coal.png]]
+![Coal](../../../campaign/sharn/npcs/coal.png)
 
 **[[coal|Coal]]** oprezna. Bez spomena Vilroy → dojavi Smelt; ako se zategne, bježi (idi na zasjedu). Sa spomenom Vilroy → smiri se i ispriča: otmica djeteta iz House Orien, ubistvo prijateljice **Razor**, Daask lov na artefakte u Old Sharnu.
 
-![[cog-carnival-musician.png]]
+![Cog Carnival muzičar](cog-carnival-musician.png)
 
 ### Scena 3 — Zasjeda (potjera + Daask hit squad)
 Taman kad Coal završava, **vatrena strijela promaši joj glavu**. Kaos, Coal bježi vičući da su je smjestili.
@@ -106,7 +106,7 @@ Za odglumiti: stoji uz Aldena kao oslonac, pušta gazdu da govori dok se ovaj dr
 Vodi u [[loc_old_sharn_dig]]. Lift "out of order".
 > Vrata se otvore i otkriju kamenu kocku od 15. Magični orb na stropu. Dvoje mladih, shifter i dobro odjeven čovjek, stoje nos uz nos u uglu, zaneseni, i ne primjećuju vas.
 
-![[session-01-lift-panel.png]]
+![Medusa panel](session-01-lift-panel.png)
 **[[luna|Luna]]** i **[[vonnie|Vonnie ir'Cardwan]]** na tajnom sastanku; Diplomacy/Intimidation DC 12 ih ukloni; loš Intimidation ili diranje panela → Vonnie zove 3 Watch guarda (writ ih smiri). **Medusa panel:** ugravirana medusa krije panel; žice ka Eberron dragonshardu; Investigation/Arcana DC 13 nađe labavu žicu i praznu rupicu; spajanje spušta lift (i zaključa ga dole).
 > **Spotlight [[lavren|Lavren]]:** naprava i rukopis majstora koji ju je modifikovao.
 **Backup:** lift se na kraju spusti pozvan od **[[orgon|Orgona]]** (bugbear, Daask); traži da izađu, pa napada (do 10 HP pa se preda; Intimidation DC 12 pokaže kako spustiti lift).

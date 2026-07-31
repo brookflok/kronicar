@@ -1,6 +1,6 @@
 # Alden d'Orien
 
-![[alden-dorien.png]]
+![Alden d'Orien](alden-dorien.png)
 
 - Rasa / klasa: human (Breland), noble. Scion House Orien, rezidencija Unicorn Estate ([[loc_mithral_tower|Mithral Tower]]).
 - Veza sa party-jem: ucijenjeni otac; izvor tragova ka [[Garra|Garri]] ako spase [[caden-dorien|Cadena]] ([[session_01]]). Potencijalni pokrovitelj ili neprijatelj zavisno od ishoda.

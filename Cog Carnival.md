@@ -9,7 +9,7 @@ tags: [campaign, location, sharn, tavicks-landing]
 
 > Jedini warforged lokal u [[loc_high_walls|High Wallsu]] i jedino toplo mjesto u njemu. Spolja išaran grafitima ("Forged Are Scrap!"), unutra svira muzika. [HOMEBREW], uveden za stolom u [[log_oneshot_i_session_01|Session 1]].
 
-![[cog-carnival-musician.png]]
+![Cog Carnival muzičar](output/sharn/sessions/cog-carnival-musician.png)
 
 ## Theme i okus
 Theme: **mjesto gdje metal uči da živi**. Niska sala puna zveketa i pare: kućni bend od warforgeda pretvara vlastita tijela u ritam, zupčanici kao perkusija, lim koji jeca blues, a po podu se vrti swing. Za warforgede je sve besplatno i "među svojima"; vlasnica ne može platiti skupu dozvolu za nastupe, pa je sve neformalno. Ne-warforged gosti plaćaju ulaz i dobiju čudne poglede dok ne pokažu da su došli s poštovanjem. Vlasnica **Smelt** drži kuću, vratar **Ingot** drži vrata i cjenovnik za "mesne" goste.

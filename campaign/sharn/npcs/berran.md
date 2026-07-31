@@ -1,6 +1,6 @@
 # Berran 
 
-![[berran.png]]
+![Berran](berran.png)
 
 - Rasa / klasa: dwarf; civilni NPC (commoner/veteran baza po potrebi).
 - Veza sa party-jem: gazda zgrade i susjednog inna u kojem (ili iznad kojeg) [[agencija|agencija]] drži ured. Naplaćuje kiriju, ali je i prvi komšija, izvor tračeva s ulice i mjesto gdje klijenti čekaju.
