@@ -24,4 +24,4 @@ Mithral Tower živi od zabava, čajeva i "slučajnih" susreta gdje se prave i ru
 Diskretan majstor zaštitnih čari i dragonshard naprava opslužuje bogate: brave, alarmi, attunement, modifikovani liftovi. Isti zanat drži i Daaskov "out of order" lift ka Old Sharnu (medusa panel, Eberron dragonshard, žice u rupicama). Za [[lavren|Lavren]] je ovo i tehnička slagalica i trag, jer ko god je modifikovao taj lift, ostavio je rukopis. **Appeal:** zagonetka, plijen, intriga. **[DM]** Trag ka tome ko u gradu prodaje pristup dole (moguća veza ka [[paddric-solliver|Paddricu Solliveru]] i tome ko posjeduje zgradu s liftom).
 
 ## Veze
-Slučajevi: [[session_01_forgotten_relics]] (Alden, Vishtai, lift ka Old Sharnu). Ljudi: [[alden-dorien|Alden d'Orien]], [[vishtai|Vishtai]]. Susjedstvo: spušta se ka [[loc_old_sharn_dig|Old Sharn digu]] preko modifikovanog lifta.
+Slučajevi: [[session_01]] (Alden, Vishtai, lift ka Old Sharnu). Ljudi: [[alden-dorien|Alden d'Orien]], [[vishtai|Vishtai]]. Susjedstvo: spušta se ka [[loc_old_sharn_dig|Old Sharn digu]] preko modifikovanog lifta.

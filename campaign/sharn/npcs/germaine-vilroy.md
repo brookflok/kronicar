@@ -3,7 +3,7 @@
 
 - Iz Sharn mastera? Ne, iz modula *Forgotten Relics* (EFR). Smještena u Middle Dura Watch radi blizine agencije.
 - Rasa / klasa: human (Breland), veteran. Narednica Sharn Watcha.
-- Veza sa party-jem: **prvi klijent kampanje** ([[session_01_forgotten_relics]]). Unajmljuje agenciju da se nađe s warforged [[coal|Coal]] i dovede je na ispitivanje; mami ih time da **plati kiriju za ovaj mjesec**. Daje Watch writ of enforcement. [[kragz|Kragz]] je moguća stara veza iz Watcha.
+- Veza sa party-jem: **prvi klijent kampanje** ([[session_01]]). Unajmljuje agenciju da se nađe s warforged [[coal|Coal]] i dovede je na ispitivanje; mami ih time da **plati kiriju za ovaj mjesec**. Daje Watch writ of enforcement. [[kragz|Kragz]] je moguća stara veza iz Watcha.
 - Character archetype (za roleplay): gruba, umorna, lula u uglu usana, ne troši riječi. Glumi brigu za Coal, a zapravo štiti sebe. Veteran koja je naučila da preživljavanje plaća kompromise.
 - Trenutni odnos / attitude: Indifferent → Friendly (poslovno). Korisna, ali ne pouzdana.
 - Šta zna / šta želi sada: zna za Coalin sastanak i da je riječ o zločinu u Old Sharnu; ne želi sama stati između Boromara i Daaska. Želi problem riješen tuđim rukama.

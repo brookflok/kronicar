@@ -24,4 +24,4 @@ Po bočnim uličicama Cyrani prodaju ono što su iznijeli iz mrtve domovine: oru
 Svaki ulaz i izlaz iz High Wallsa prolazi kroz Watch postaju na kapiji. Korumpirani stražari naplaćuju "prolaz", propuštaju krijumčare za sitan novac i znaju ko je sinoć ušao i izašao. Watch writ ([[germaine-vilroy|Germainin]] papir) ovdje vrijedi, ali grubo i nevoljko. Igra je proći a ne ostaviti trag, ili izvući iz stražara ko je još tražio Coal. **Appeal:** šuljanje, intriga, društvo. **[DM]** Jedan od ovih stražara je svjež Daask trag: krtica koja je odala Coalin sastanak (vidi `session_01`).
 
 ## Veze
-Slučajevi: [[session_01_forgotten_relics]] (sastanak s Coal, zasjeda). Ljudi: [[germaine-vilroy|Germaine Vilroy]] (writ), [[zerya-v3|Zerya]]. Frontovi: [[boromar-vs-daask|Daask]] (lov na Coal). Susjedstvo: [[loc_terminus|Terminus]] (isti ward).
+Slučajevi: [[session_01]] (sastanak s Coal, zasjeda). Ljudi: [[germaine-vilroy|Germaine Vilroy]] (writ), [[zerya-v3|Zerya]]. Frontovi: [[boromar-vs-daask|Daask]] (lov na Coal). Susjedstvo: [[loc_terminus|Terminus]] (isti ward).

@@ -10,3 +10,4 @@
 
 ## Stanje / zadnji kontakt
 - Postavljen kao nepouzdan kontakt, par s [[grix|Grix]]om.
+- Stalno mjesto kontakta s Kragzom: [[loc_broken_anvil|The Broken Anvil]] u [[loc_callestan|Callestan]]u (Lower Dura). Sicco sjedi uz prozor i vrti šolju tala.

@@ -111,6 +111,7 @@ Vodi u [[loc_old_sharn_dig]]. Lift "out of order".
 > **Spotlight [[lavren|Lavren]]:** naprava i rukopis majstora koji ju je modifikovao.
 **Backup:** lift se na kraju spusti pozvan od **[[orgon|Orgona]]** (bugbear, Daask); traži da izađu, pa napada (do 10 HP pa se preda; Intimidation DC 12 pokaže kako spustiti lift).
 
+605 ili 305
 ### Scena 6 — Old Sharn dig (spašavanje Cadena)
 Lokacija: [[loc_old_sharn_dig]]. Spuštanje:
 > Lift se spušta kao da nema dna, drhti kao da prolazi kroz mjesto kroz koje ne bi smio, pa stane. Pred vama ogroman neosvijetljena pećina puna polomljenog zidanja dokle oko vidi. Zrak je ustajao, pun prašine i mirisa truleži. Ovo su ruševine gradova nad kojima Sharn stoji. Ispred, jama pedeset stopa široka i deset duboka. Iz drvene šupe s druge strane čuje se tih plač djeteta.

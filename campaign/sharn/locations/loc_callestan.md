@@ -24,4 +24,4 @@ Neupadljivo konačište prepuno changelinga i shiftera, zapravo front [[house-ta
 U podrumu jedne krčme svake noći se "licitiraju" poslovi: ko treba mišiće, ko prodaje dojavu, ko traži da neko nestane. Predstavnici frakcija sjede za istim stolom pod primirjem koje drži samo dok teče zarada. Party tu može uzeti posao, čuti ko koga lovi, ili namjerno pustiti dvije sile da se sudare. **Appeal:** intriga, planiranje, društvo. **Kuka:** jedan sto na kojem se vidi cijela mapa podzemlja; sjesti za njega znači biti viđen od svih.
 
 ## Veze
-Slučajevi: ambijent ka `[[case_forget_the_cogs]]` (put kroz Lower Duru do Sollivera). Frontovi: [[boromar-vs-daask]], [[house-tarkanan]]. Ljudi: [[mister-pol|Pol]] (posrednik se kreće ovuda).
+Slučajevi: ambijent ka `[[case_forget_the_cogs]]` (put kroz Lower Duru do Sollivera). Frontovi: [[boromar-vs-daask]], [[house-tarkanan]]. Ljudi: [[mister-pol|Pol]] (posrednik se kreće ovuda). U districtu: [[loc_broken_anvil|The Broken Anvil]] (Ghallanda tal kuća, mjesto gdje [[kragz|Kragz]] nalazi svoje doušnike).

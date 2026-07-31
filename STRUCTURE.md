@@ -53,3 +53,5 @@ Ovaj root je biblioteka koja drži više settinga i jednu zajedničku metodu. (F
 - `settings/sharn/` — kompletno obrađeno (9 batcheva, 9 sažetaka, master).
 - `method/` — kompletno obrađeno. Dvije knjige (*Return of the Lazy Dungeon Master* i *Sly Flourish's Fantastic Locations*) prošle kroz pipeline (10 batcheva, 9 sažetaka), i izgrađena je `03_method/kronicar_method.md` (ujedinjena metoda) + `method_index.md` + `sources_traceability.md`.
 - `output/sharn/` — prazno, čeka prvi deliverable (sesija, kampanjski luk, NPC kartica, location writeup).
+
+

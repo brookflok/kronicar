@@ -10,3 +10,4 @@
 
 ## Stanje / zadnji kontakt
 - Postavljen kao nepouzdan kontakt, par sa [[sicco-nenn|Sicco]]m.
+- Stalno mjesto kontakta s Kragzom: [[loc_broken_anvil|The Broken Anvil]] u [[loc_callestan|Callestan]]u (Lower Dura). Grix izbjegava glavni ulaz, dolazi iz pravca Cogsa i čeka u stražnjoj sobi.

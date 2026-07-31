@@ -8,31 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28a1556eaefbab62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output/sharn/tura_the_cogs_morgrave.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tura_the_cogs_morgrave"
-            }
-          },
-          {
             "id": "fd4965204016bdb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaign/sharn/locations/loc_high_walls.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loc_high_walls"
+              "title": "CLAUDE"
+            }
+          },
+          {
+            "id": "8e984dddc9ca1513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaign/sharn/locations/loc_mithral_tower.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loc_mithral_tower"
+            }
+          },
+          {
+            "id": "1239b1336e86a8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaign/sharn/npcs/Rogi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rogi"
+            }
+          },
+          {
+            "id": "749c30ab91844cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaign/sharn/npcs/Random NPC Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random NPC Names"
             }
           }
         ]
@@ -198,53 +226,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "28a1556eaefbab62",
+  "active": "fd4965204016bdb4",
   "lastOpenFiles": [
-    "campaign/sharn/situations/sit_the_last_lot.md",
-    "campaign/sharn/npcs/ilyan-sorel.md",
-    "campaign/sharn/locations/loc_aurora_gallery.md",
-    "method/03_method/situation_template.md",
+    "campaign/sharn/log/log_session_03.md",
+    "output/sharn/sessions/session_03.md",
     "settings/sharn/00_source/Eberron_ Forge of the Artificer.md",
-    "img/book/XDMG/038-02-018.lone-npc.webp.md",
-    "img/book/XDMG/230-map-12.11-ship.webp.md",
+    "output/sharn/sessions/session_01.md",
+    "output/sharn/sessions/session_00_session_zero.md",
+    "campaign/sharn/log/log_session_02.md",
+    "campaign/sharn/locations/loc_mithral_tower.md",
+    "campaign/sharn/locations/loc_old_sharn_dig.md",
+    "campaign/sharn/party/kragz.md",
+    "campaign/sharn/locations/loc_broken_anvil.md",
+    "output/sharn/sessions/session_02.md",
+    "campaign/sharn/party/lavren.md",
+    "settings/sharn/03_master/locations/Sharn Lokacije.md",
+    "settings/sharn/03_master/locations/City of the Dead/City of the Dead.md",
+    "output/sharn/sessions/Untitled",
+    "campaign/sharn/log/README.md",
+    "campaign/sharn/npcs/Barba.md",
+    "campaign/sharn/npcs/Rogi.md",
+    "campaign/sharn/npcs/Random NPC Names.md",
+    "campaign/sharn/log/log_oneshot_i_session_01.md",
+    "output/sharn/session_0_pitanja_veze.md",
+    "Pasted image 20260716143758.png",
+    "Pasted image 20260716143804.png",
+    "Pasted image 20260716143814.png",
+    "Pasted image 20260716150313.png",
+    "caden-dorien.md",
+    "CLAUDE.md",
+    "STRUCTURE.md",
+    "marcus_handout.pdf",
+    "index.md",
+    "Germaine-Vilroy-Token.png",
+    "output/sharn/tura_the_cogs_morgrave.md",
+    "campaign/sharn/_mapa_arcova.md",
+    "Pravila za Flashback Points (FP).pdf",
+    "with-image.pdf",
+    "Pasted image 20260620154510.png",
+    "Pasted image 20260626192137.png",
+    "Pasted image 20260627112453.png",
+    "Pasted image 20260627125546.png",
+    "Pasted image 20260627125548.png",
     "img/book/XDMG",
     "img/book",
     "img",
-    "output/sharn/tura_the_cogs_morgrave.md",
-    "campaign/sharn/npcs/garrum-vauld.md",
-    "campaign/sharn/npcs/yvanne-toller.md",
-    "campaign/sharn/npcs/vundry.md",
-    "campaign/sharn/npcs/vishtai.md",
-    "campaign/sharn/npcs/tully-sixfingers.md",
-    "campaign/sharn/npcs/tam-brennick.md",
-    "campaign/sharn/npcs/shaala-dhakaan.md",
-    "campaign/sharn/npcs/sevren-marr.md",
-    "campaign/sharn/npcs/sapha-vaan.md",
-    "campaign/sharn/npcs/README.md",
-    "campaign/sharn/npcs/quillian-sett.md",
-    "campaign/sharn/npcs/paddric-solliver.md",
-    "campaign/sharn/npcs/olwen-marrick.md",
-    "campaign/sharn/npcs/niho-koi.md",
-    "campaign/sharn/npcs/nessa-tarn.md",
-    "campaign/sharn/npcs/mister-pol.md",
-    "campaign/sharn/npcs/ghash-duurkat.md",
-    "campaign/sharn/npcs/germaine-vilroy.md",
-    "marcus_handout.pdf",
-    "Pasted image 20260620154835.png",
-    "Pasted image 20260626192137.png",
-    "Pasted image 20260626192345.png",
-    "Pasted image 20260627094624.png",
-    "Pasted image 20260627110610.png",
-    "Pasted image 20260620154755.png",
-    "Pasted image 20260620154621.png",
-    "Pasted image 20260620154510.png",
     "output/sharn/sessions/session_01_forgotten_relics.md.tmp.50419.d0c6845b0599",
     "campaign/sharn/npcs/quillian-sett.md.tmp.50419.e4232ba17809",
-    "Pasted image 20260627125548.png",
-    "Pasted image 20260627125546.png",
-    "settings/sharn/adventures/forgotten_relics/02_summaries",
-    "settings/sharn/adventures/forgotten_relics/01_batches",
-    "settings/sharn/adventures/forgotten_relics/00_source",
-    "settings/sharn/adventures/forgotten_relics"
+    "settings/sharn/adventures/forgotten_relics/02_summaries"
   ]
 }

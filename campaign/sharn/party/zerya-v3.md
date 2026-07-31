@@ -9,6 +9,8 @@
 
 ## Lične niti (potencijal, [DM])
 - Patron je **Archfey** (Warlock of the Fey): general je sklopio pakt sa nekim Archfey bićem da "udahne dušu". Otvoreno: **koje je to Fey biće** i šta želi zauzvrat (cijena duše).
+- **Označena kao artefakt** (odigrano, [[log_session_02]]): Identify joj je otkrio arcane matricu znatno jaču od standardne, s fragmentom duše, po Cannith uzoru ali modifikovanu van ovlaštenja. To je čini artefaktom sa sviješću koji hoda gradom, i zato je "označena": [[the-pilfered-wand|Pilfered Wand]] krade artefakte, ne ljude. Dva svjesna warforgeda bili su tragači (uništeni padom s mosta), Vikari kurir; isprintanu sliku poderao je Lavrenin Steel Defender. [otvoreno: za koga je artefakt naručen; veže se na Zeryin arc u [[_mapa_arcova]]]
+- **Oči patrona:** par očiju, jedno plavo i jedno ljubičasto, presjekao je Identify prije nego je saznala više. To NIJE progonitelj nego njen patron (Archfey), kojeg Zerya ne poznaje i koji ne želi da tim putem sazna više. Prvi put da se patron direktno umiješao. [otvoreno: identitet i motiv, čeka Ivin izbor]
 - "**v3**" implicira ranije verzije (v1, v2?) — otvoren potencijal.
 - General (pokojni) i njegova kćer — naslijeđe i identitet.
 - Cirkuski kontakti i mjesto (Entertainer background).
@@ -19,3 +21,4 @@
 
 ## Stanje / bilješke
 - Otvoreno: **Iva još odlučuje** koje je konkretno Archfey biće (i šta želi), te ranije "verzije". Sve ostalo kompletno.
+- Session 2 (odigrano): saznala za matricu i fragment duše, označena kao plijen, vidjela oči patrona kroz prekinuti Identify (vidi [DM] niti gore). Nit se dalje vodi u [[session_03]] (tajna 7) i [[threads]].

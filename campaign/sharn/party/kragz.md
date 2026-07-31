@@ -33,6 +33,7 @@ Javno naspram tajnog:
 - **House Deneith:** **[[tam-brennick|Tam Brennick]]** (ratni prijatelj) radi osiguranje za dragonmarked kuće; Deneith je kanonska kuća zaštite/plaćenika (Mark of Sentinel, Blademarks i Defenders' Guild). Pravi saveznik. [DM]
 - Orden **"zlatni bodež"** → [HOMEBREW]; uklapa se u nadimak grada "City of Knives".
 - **Klan Jhorgunal'tall** + half-orc + inquisitive → prirodna veza sa **[[house-tharashk|House Tharashk]]** (Mark of Finding, Shadow Marches half-orci dominiraju inquisitive zanatom u Sharnu; **Finders' Guild**). Tharashk može biti rival ili pokrovitelj agencije. [DM]
+- **Doušnici [[sicco-nenn|Sicco Nenn]] i [[grix|Grix]]:** stalno mjesto kontakta je **[[loc_broken_anvil|The Broken Anvil]]**, Ghallanda tal kuća u [[loc_callestan|Callestan]]u (Lower Dura). Kanonska krčma (domaćica Eranna, House Ghallanda); Watch u Callestan ne zalazi, što Kragzu odgovara, ali Boromar oči vide ko ulazi. [DM]
 - Kao Rogue Inquisitive i bivši inspektor, Kragz je prirodno **lice/voditelj** party detektivske agencije (vidi `organization/`).
 
 ## Stanje / bilješke

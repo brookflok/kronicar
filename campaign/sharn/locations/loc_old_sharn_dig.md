@@ -3,7 +3,11 @@ quarter: UnderSharn
 ward: Old Sharn
 klasa: ruins
 canon: "[[Old Sharn]]"
-tags: [campaign, location, sharn, undersharn]
+tags:
+  - campaign
+  - location
+  - sharn
+  - undersharn
 ---
 # Old Sharn dig: sporedne aktivnosti  (theme park)
 
@@ -50,4 +54,4 @@ Onima koji su ostali s njim do kraja ostane tihi dar njegovog zanata: sljedećih
 Dublje od jame, zidanje prelazi u nešto starije i finije: dhakaanski kamen koji "pamti", urezi koji svijetle kad ih dodirne prava ruka. Ovo je rub [[loc_jashaarat|Ja'shaarata]] i daashor zanata koji nadmašuje Cannith. Za [[lavren|Lavren]] kamen i pismo reaguju kako ne reaguju ni za koga drugog. **Appeal:** istraživanje, zagonetka. **[DM]** Ovdje se nalazi miješani dhakaanski komad iz Daaskovog plijena; tanak konac ka Skybreaker "izvoru" (vidi `party/marcus-hale.md`) i ka [[case_the_reclaimers]] / [[case_the_kept_word]]. Pusti da samo zagrebe, ne da se otvori cijelo.
 
 ## Veze
-Slučajevi: [[session_01_forgotten_relics]] (spašavanje Cadena). Ljudi: [[caden-dorien|Caden d'Orien]], [[pfingston-nezzelech|Pfingston]], [[Garra|Garra]] (čije goblinе ostavlja da čuvaju). Frontovi: [[boromar-vs-daask|Daask]]. Veže: [[loc_jashaarat]], [[loc_depths]], dhakaanske niti [[_braid_dhakaan]].
+Slučajevi: [[session_01]] (spašavanje Cadena). Ljudi: [[caden-dorien|Caden d'Orien]], [[pfingston-nezzelech|Pfingston]], [[Garra|Garra]] (čije goblinе ostavlja da čuvaju). Frontovi: [[boromar-vs-daask|Daask]]. Veže: [[loc_jashaarat]], [[loc_depths]], dhakaanske niti [[_braid_dhakaan]].
